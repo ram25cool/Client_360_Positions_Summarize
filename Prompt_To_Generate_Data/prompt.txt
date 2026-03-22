@@ -1,0 +1,221 @@
+client --
+
+create 1000 client records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. 
+
+date related attributes will be in YYYY-MM-DD format
+
+Please have 98% account with status_code active and remaining as Dormant
+
+le_id, sub_prof_id will be same across each files for joining.
+
+orig_customer_name and customer_name can be taken as listed or pte companies of singapore as value which will give better reference
+
+cust_seg|cust_seg_desc
+30 | Business Clients
+50 | Private Banking
+A | Local Corporate
+E | Commodity Traders & Agriculture
+HV | High value small business
+K | Global corporate
+ME | Medium enterprises
+MM | Middle market
+N | Financial Institution
+NA | Not applicable
+S | Own account
+
+status_code | Active/Dormant
+
+
+Collateral --
+
+create 1000 COLLATERAL records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+date related attributes will be in YYYY-MM-DD format
+
+checklist_id, collateral_id are numeric fields you can take similar number of the same datatype and size.
+
+customer_type value will be MAIN_BORROWER for all records
+
+checklist_status -> certification_allowed, completed, deferred, in_progress, new, obsolete
+
+security_type -> ASSET BASED, CASH, COMMODITY, GUARANTEES, INSURANCE, MARKETABLE SECURITIES, OTHERS, PROPERTY, SCB STRUCTURED DEPOSITS/NOTES
+
+security_sub_type -> take values based on security_type
+
+document_status -> awaiting, completed, pending_complete, pending_update, received, submitted_to_custodian
+
+custody_status -> ALLOW_PERM_UPLIFT, RECEIVED, ALLOW_BULK_PERM_UPLIFT, ALLOW_TEMP_UPLIFT, AWAITING, ALLOW_RELODGE, PENDING_ALLOW_PERM_UPLIFT, PENDING_ALLOW_BULK_PERM_UPLIFT, PENDING_ALLOW_TEMP_UPLIFT
+
+other attributes please have realistic valuse based on the context of data.
+
+Core --
+
+create 1000 core records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+date related attributes will be in YYYY-MM-DD format
+
+account_type -> DEAL, ACCOUNT
+product -> FC FIXED DEPOSITS, FLEXI TIME DEPOSIT, BAD DEBT P&L, BASIC BANKING ACCOUNT, BONUS SAVER, BONUS SAVER ACCOUNT(ONLINE), BUSINESS OVERDRAFT,
+CASH Collateral - SGD, CASH IN HAND, CASH IN TRANSIT, CASH-ATM, CASHIER'S ORDER, CHEQUE AND SAVE ACCOUNT, CURRENT ACCOUNT - MANAGED RATE, CURRENT ACCOUNT NON INTEREST BEARING,
+DEBIT CARD ANNUAL FEE, DEMAND DRAFT, ESCROW FCY, FC CALL DEPOSITS, INWARD COLLECTION, INTEREST RECEIVED, ONEACCOUNT, ONLINE SUSPENSE, OUTWARD RTGS, PAYROLL SUSPENSE SCB PAY ERR ACC,
+PRIVATE BANK CASH ACCOUNT, FCY SECURITIES SETTLEMENT ACCOUNT
+
+APART FROM ABOVE ANY OTHER PRODUCT IN RELATION TO CORE BANKING CAN BE PUT FOR RECORDS GENERATION
+
+PRODUCT_TYPE -> C(CURRENT), I(INTEREST), S(SAVINGS), DEPOSIT
+
+CURRENCY -> YOU CAN PUT DIFFERENT INTERNATIONAL CURRENCY MAJOR AED, AUD, USD, JPY, EUR, SGD, INR
+
+PRODUCT CODE -> GIVE 3 DIGIT CODE BASED ON PRODUCT
+
+MTH_END -> 2024-12-30
+SRC -> EBBS
+CTY -> SG
+
+custody --
+
+
+create 1000 custody records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+ALL date related attributes will be in YYYY-MM-DD format
+
+bp_id -> 4-6 digit number
+sca_ref -> number of 12 digit
+account_status -> Active
+account_name -> Image attached for more sample
+security_name -> Image attached for more sample
+security_code -> Image attached for more sample
+
+
+MTH_END -> 2024-12-30
+SRC -> SECCURE
+CTY -> SG
+
+
+Facilities --
+
+create 1000 facilities records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+ALL date related attributes will be in YYYY-MM-DD format.
+
+limit_id -> 8 digit number field
+limit_class -> MAIN BORROWER LIMIT, CO-BORROWER LIMIT
+LIMIT_TYPE -> OUTER, INNER, CONTROL
+LIMIT_ADVISED_INDICATOR -> N,Y
+LIMIT_PRODUCT_CODE -> IMAGE ATTACHED
+LIMIT_PRODUCT_NAME -> IMAGE ATTACHED
+ACTIVATED_LIMIT_INDICATOR -> N,Y
+ACTIVATED_LIMIT_STATUS-> Active
+ACTIVATED_limit_class -> MAIN BORROWER LIMIT, CO-BORROWER LIMIT
+ACTIVATED_LIMIT_TYPE -> OUTER, INNER, CONTROL
+MTH_END -> 2024-12-31
+SRC -> SCI
+CTY -> SG
+
+
+FUNDS --
+create 1000 facilities records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+ALL date related attributes will be in YYYY-MM-DD format.
+
+account_number -> initial 9 digit then - 1
+account_type -> UNIT TRUST
+fund_code -> image attached
+fund_name -> image attached
+mth_end -> 2024-12-30
+src -> UTS
+cty -> SG
+
+FXD - 
+
+create 5000 fxd records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. Have multiple records against each le_id and sub_prof_id. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+ALL date related attributes will be in YYYY-MM-DD format.
+
+trade_id -> 9 digit number field
+product_group -> image attached
+product_type -> image attached
+counterparty_id -> 9 digit code
+counterparty_name -> image attached
+mth_end -> 2024-12-31
+src - RAZORFX(Forex related trades), MUREX(bond, swap, irs, fxd, opt), RAZORMM(money market), FMPTS(), SABRE(equity derivates related trade) 
+cty - SG
+
+
+Loans --
+
+create 1000 loans records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. Have multiple records against each le_id and sub_prof_id. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+ALL date related attributes will be in YYYY-MM-DD format.
+
+account_number -> 11 character(2 alphabet + 9 digits)
+lend_type -> 600,801
+lend_type_description -> 600 SCB Direct, 801 Provisions
+account_type -> Loan
+product -> BUSINESS_EQUIPMENT_FINANCING, MORTGAGE LOANS, REVOLVING, TERM
+PRODUCT_TYPE -> L
+dr_cr_indicator -> DR
+portfolio_id -> SA, SJ, SC, SI
+purpose_code -> Attached Image
+mth_end -> 2024-12-31
+src - ACB 
+cty - SG
+
+
+Trade DTP --
+
+create 1000 trade dtp records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. Have multiple records against each le_id and sub_prof_id. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+ALL date related attributes will be in YYYY-MM-DD format.
+
+deal_id - 12 digit number
+step_id - attached image
+product_type - IMPORT, EXPORT
+PRODUCT -> COLLECTIONS, EXPORT BILLS, EXPORT LOANS, GUARANTEES, IMPORT LOANS, LETTER OF CREDIT
+DEAL_CATEGORY -> attached image
+mth_end -> 2024-12-31
+src - DTP
+cty - SG
+
+
+Trade OTP --
+
+create 1000 trade otp records based on the attached file with attributes and sample record. Provided below distinct values of attributes present in the files
+which can be used to generate records. Have multiple records against each le_id and sub_prof_id. 
+
+le_id, sub_prof_id will be same across each files for joining.
+
+ALL date related attributes will be in YYYY-MM-DD format.
+
+deal_id -> 10 alphanumic character
+deal_rec_id -> deal_id + "-" + 5 digit
+product -> image attached
+purpose_code -> image attached
+mth_end -> 2024-12-31
+src - OTP
+cty - SG

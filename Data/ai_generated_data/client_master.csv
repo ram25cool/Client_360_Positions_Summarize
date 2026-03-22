@@ -1,0 +1,1001 @@
+client_id,le_id,sub_prof_id,orig_customer_name,customer_name,cust_seg,cust_seg_desc,status_code,onboard_date,client_size,inc_num,mth_end,src,cty
+C100000,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,04-03-2011,Small,DEFAULT,2015-06-30,SCI,SG
+C100001,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,20-04-2007,Medium,DEFAULT,2022-03-26,SCI,SG
+C100002,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,50,Private Banking,Active,18-09-2005,Large,DEFAULT,2010-09-02,SCI,SG
+C100003,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,02-05-2016,Small,DEFAULT,2023-07-03,SCI,SG
+C100004,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,K,Global corporate,Active,24-09-2020,Small,DEFAULT,2022-03-23,SCI,SG
+C100005,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,21-03-2018,Small,DEFAULT,2016-03-28,SCI,SG
+C100006,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,MM,Middle market,Active,25-06-2014,Medium,DEFAULT,2017-08-19,SCI,SG
+C100007,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,50,Private Banking,Active,15-02-2022,Large,DEFAULT,2017-07-20,SCI,SG
+C100008,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,04-03-2007,Medium,DEFAULT,2018-01-19,SCI,SG
+C100009,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,E,Commodity Traders & Agriculture,Active,07-02-2023,Medium,DEFAULT,2010-12-22,SCI,SG
+C100010,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,K,Global corporate,Active,28-06-2013,Large,DEFAULT,2011-10-08,SCI,SG
+C100011,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,15-11-2018,Medium,DEFAULT,2018-02-10,SCI,SG
+C100012,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,HV,High value small business,Active,11-01-2006,Small,DEFAULT,2015-02-10,SCI,SG
+C100013,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Dormant,23-03-2010,Medium,DEFAULT,2012-04-07,SCI,SG
+C100014,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,05-04-2019,Large,DEFAULT,2018-03-08,SCI,SG
+C100015,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,13-09-2009,Large,DEFAULT,2015-12-28,SCI,SG
+C100016,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,02-11-2008,Small,DEFAULT,2021-12-24,SCI,SG
+C100017,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,S,Own account,Active,06-07-2013,Small,DEFAULT,2016-01-21,SCI,SG
+C100018,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,27-11-2023,Large,DEFAULT,2011-04-04,SCI,SG
+C100019,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,21-01-2023,Medium,DEFAULT,2017-01-28,SCI,SG
+C100020,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,25-09-2009,Medium,DEFAULT,2022-09-21,SCI,SG
+C100021,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,13-03-2016,Small,DEFAULT,2018-11-16,SCI,SG
+C100022,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,18-02-2008,Medium,DEFAULT,2015-07-14,SCI,SG
+C100023,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,11-08-2014,Medium,DEFAULT,2023-02-02,SCI,SG
+C100024,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,08-02-2008,Large,DEFAULT,2021-06-06,SCI,SG
+C100025,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,21-01-2006,Small,DEFAULT,2012-06-17,SCI,SG
+C100026,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,NA,Not applicable,Active,07-10-2022,Small,DEFAULT,2019-06-21,SCI,SG
+C100027,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,14-05-2018,Small,DEFAULT,2020-07-01,SCI,SG
+C100028,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,05-04-2005,Large,DEFAULT,2012-07-27,SCI,SG
+C100029,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,18-08-2012,Medium,DEFAULT,2012-07-02,SCI,SG
+C100030,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,06-03-2015,Medium,DEFAULT,2010-01-27,SCI,SG
+C100031,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,MM,Middle market,Active,02-02-2022,Medium,DEFAULT,2014-01-03,SCI,SG
+C100032,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,11-09-2011,Medium,DEFAULT,2021-05-21,SCI,SG
+C100033,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,30,Business Clients,Active,07-02-2022,Small,DEFAULT,2013-08-16,SCI,SG
+C100034,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,06-07-2007,Small,DEFAULT,2018-02-21,SCI,SG
+C100035,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,28-05-2010,Large,DEFAULT,2022-09-22,SCI,SG
+C100036,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,26-11-2015,Small,DEFAULT,2011-07-21,SCI,SG
+C100037,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,30-08-2015,Small,DEFAULT,2022-05-01,SCI,SG
+C100038,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Active,10-08-2018,Large,DEFAULT,2019-06-29,SCI,SG
+C100039,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,10-12-2021,Large,DEFAULT,2014-07-06,SCI,SG
+C100040,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,25-01-2020,Medium,DEFAULT,2018-05-18,SCI,SG
+C100041,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,16-02-2015,Large,DEFAULT,2012-09-18,SCI,SG
+C100042,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,01-08-2012,Medium,DEFAULT,2010-06-22,SCI,SG
+C100043,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,28-02-2005,Medium,DEFAULT,2011-08-05,SCI,SG
+C100044,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,MM,Middle market,Active,15-09-2005,Medium,DEFAULT,2017-05-30,SCI,SG
+C100045,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,01-04-2011,Small,DEFAULT,2020-11-20,SCI,SG
+C100046,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,23-03-2021,Medium,DEFAULT,2022-10-22,SCI,SG
+C100047,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,11-08-2015,Medium,DEFAULT,2019-02-17,SCI,SG
+C100048,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,13-10-2019,Medium,DEFAULT,2019-09-02,SCI,SG
+C100049,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,30,Business Clients,Active,23-06-2015,Large,DEFAULT,2011-03-20,SCI,SG
+C100050,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,30,Business Clients,Active,02-05-2021,Medium,DEFAULT,2017-08-11,SCI,SG
+C100051,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,08-04-2009,Medium,DEFAULT,2022-01-11,SCI,SG
+C100052,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,N,Financial Institution,Active,12-02-2009,Medium,DEFAULT,2016-03-31,SCI,SG
+C100053,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,E,Commodity Traders & Agriculture,Active,10-09-2006,Small,DEFAULT,2019-12-10,SCI,SG
+C100054,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,15-02-2017,Large,DEFAULT,2010-05-01,SCI,SG
+C100055,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,21-04-2010,Large,DEFAULT,2013-09-24,SCI,SG
+C100056,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,NA,Not applicable,Active,18-10-2009,Small,DEFAULT,2018-12-30,SCI,SG
+C100057,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,18-01-2005,Small,DEFAULT,2018-10-04,SCI,SG
+C100058,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,MM,Middle market,Active,11-08-2022,Large,DEFAULT,2020-03-16,SCI,SG
+C100059,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,N,Financial Institution,Active,21-05-2021,Medium,DEFAULT,2022-06-19,SCI,SG
+C100060,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,28-08-2011,Small,DEFAULT,2014-11-19,SCI,SG
+C100061,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,28-02-2017,Large,DEFAULT,2011-05-15,SCI,SG
+C100062,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,07-02-2018,Medium,DEFAULT,2020-09-10,SCI,SG
+C100063,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Active,23-05-2016,Small,DEFAULT,2011-10-19,SCI,SG
+C100064,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,11-07-2006,Medium,DEFAULT,2015-04-11,SCI,SG
+C100065,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,E,Commodity Traders & Agriculture,Active,11-10-2017,Medium,DEFAULT,2015-07-10,SCI,SG
+C100066,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,28-05-2014,Medium,DEFAULT,2023-02-03,SCI,SG
+C100067,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,S,Own account,Active,01-08-2009,Medium,DEFAULT,2017-01-17,SCI,SG
+C100068,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,K,Global corporate,Active,09-12-2007,Small,DEFAULT,2016-09-23,SCI,SG
+C100069,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,12-11-2021,Small,DEFAULT,2011-08-18,SCI,SG
+C100070,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,S,Own account,Dormant,31-03-2007,Medium,DEFAULT,2011-08-24,SCI,SG
+C100071,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,HV,High value small business,Active,22-12-2007,Medium,DEFAULT,2017-10-30,SCI,SG
+C100072,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,16-04-2013,Large,DEFAULT,2016-05-23,SCI,SG
+C100073,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,09-03-2017,Medium,DEFAULT,2016-10-14,SCI,SG
+C100074,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,18-11-2019,Medium,DEFAULT,2012-04-28,SCI,SG
+C100075,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,N,Financial Institution,Active,27-05-2007,Medium,DEFAULT,2022-05-30,SCI,SG
+C100076,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,26-07-2018,Medium,DEFAULT,2014-09-22,SCI,SG
+C100077,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,S,Own account,Active,24-03-2019,Medium,DEFAULT,2015-12-03,SCI,SG
+C100078,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,24-12-2023,Small,DEFAULT,2011-02-21,SCI,SG
+C100079,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,09-08-2023,Small,DEFAULT,2016-03-16,SCI,SG
+C100080,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,19-04-2022,Medium,DEFAULT,2012-12-07,SCI,SG
+C100081,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,29-11-2014,Medium,DEFAULT,2022-05-17,SCI,SG
+C100082,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,06-07-2007,Small,DEFAULT,2011-09-09,SCI,SG
+C100083,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,21-09-2023,Large,DEFAULT,2018-04-13,SCI,SG
+C100084,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,09-12-2005,Medium,DEFAULT,2016-11-30,SCI,SG
+C100085,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,ME,Medium enterprises,Active,09-11-2022,Large,DEFAULT,2010-11-23,SCI,SG
+C100086,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,07-08-2010,Medium,DEFAULT,2012-04-22,SCI,SG
+C100087,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,12-02-2014,Large,DEFAULT,2023-12-03,SCI,SG
+C100088,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,24-04-2010,Medium,DEFAULT,2013-08-24,SCI,SG
+C100089,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,NA,Not applicable,Active,23-07-2005,Large,DEFAULT,2014-01-09,SCI,SG
+C100090,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,27-03-2014,Large,DEFAULT,2015-07-26,SCI,SG
+C100091,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,NA,Not applicable,Active,23-09-2020,Small,DEFAULT,2012-06-04,SCI,SG
+C100092,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,23-07-2015,Medium,DEFAULT,2014-12-28,SCI,SG
+C100093,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,MM,Middle market,Active,29-04-2015,Medium,DEFAULT,2017-11-04,SCI,SG
+C100094,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,08-02-2010,Medium,DEFAULT,2015-01-01,SCI,SG
+C100095,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,02-04-2011,Small,DEFAULT,2011-07-23,SCI,SG
+C100096,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,N,Financial Institution,Active,05-06-2016,Medium,DEFAULT,2018-12-19,SCI,SG
+C100097,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,03-08-2007,Medium,DEFAULT,2015-11-10,SCI,SG
+C100098,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,ME,Medium enterprises,Active,15-12-2010,Small,DEFAULT,2010-11-10,SCI,SG
+C100099,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,02-10-2012,Small,DEFAULT,2017-01-13,SCI,SG
+C100100,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,21-06-2016,Large,DEFAULT,2012-08-05,SCI,SG
+C100101,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,50,Private Banking,Active,07-04-2009,Small,DEFAULT,2015-09-18,SCI,SG
+C100102,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,14-01-2005,Large,DEFAULT,2021-08-30,SCI,SG
+C100103,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,30,Business Clients,Active,28-07-2006,Medium,DEFAULT,2017-05-28,SCI,SG
+C100104,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,18-10-2007,Large,DEFAULT,2016-09-26,SCI,SG
+C100105,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,26-04-2012,Medium,DEFAULT,2019-01-10,SCI,SG
+C100106,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,ME,Medium enterprises,Active,21-04-2009,Medium,DEFAULT,2019-06-07,SCI,SG
+C100107,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,26-11-2008,Medium,DEFAULT,2023-10-22,SCI,SG
+C100108,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,13-09-2023,Small,DEFAULT,2010-01-04,SCI,SG
+C100109,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,23-08-2014,Small,DEFAULT,2023-01-04,SCI,SG
+C100110,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,ME,Medium enterprises,Active,02-12-2014,Medium,DEFAULT,2014-10-17,SCI,SG
+C100111,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,09-11-2022,Medium,DEFAULT,2013-10-22,SCI,SG
+C100112,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,22-11-2019,Medium,DEFAULT,2023-11-21,SCI,SG
+C100113,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,S,Own account,Active,06-11-2021,Medium,DEFAULT,2015-04-09,SCI,SG
+C100114,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,N,Financial Institution,Active,20-06-2009,Medium,DEFAULT,2013-04-22,SCI,SG
+C100115,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,MM,Middle market,Dormant,17-09-2018,Medium,DEFAULT,2011-08-20,SCI,SG
+C100116,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,K,Global corporate,Active,16-02-2019,Medium,DEFAULT,2022-11-29,SCI,SG
+C100117,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,50,Private Banking,Active,12-08-2013,Small,DEFAULT,2021-02-01,SCI,SG
+C100118,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,19-09-2019,Large,DEFAULT,2010-02-15,SCI,SG
+C100119,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,28-11-2009,Large,DEFAULT,2013-12-11,SCI,SG
+C100120,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,S,Own account,Active,04-08-2010,Small,DEFAULT,2012-09-21,SCI,SG
+C100121,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,N,Financial Institution,Active,04-06-2015,Medium,DEFAULT,2021-11-30,SCI,SG
+C100122,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,05-12-2014,Small,DEFAULT,2023-09-28,SCI,SG
+C100123,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,E,Commodity Traders & Agriculture,Active,16-04-2017,Small,DEFAULT,2020-01-01,SCI,SG
+C100124,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,S,Own account,Active,25-08-2015,Small,DEFAULT,2020-02-04,SCI,SG
+C100125,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,03-11-2023,Medium,DEFAULT,2016-03-21,SCI,SG
+C100126,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,28-02-2011,Medium,DEFAULT,2019-11-13,SCI,SG
+C100127,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,50,Private Banking,Active,05-04-2010,Medium,DEFAULT,2016-02-04,SCI,SG
+C100128,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,NA,Not applicable,Active,11-02-2017,Medium,DEFAULT,2011-10-23,SCI,SG
+C100129,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,04-08-2013,Large,DEFAULT,2013-06-05,SCI,SG
+C100130,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,22-02-2014,Small,DEFAULT,2017-06-03,SCI,SG
+C100131,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,22-08-2009,Medium,DEFAULT,2019-06-04,SCI,SG
+C100132,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,MM,Middle market,Active,06-02-2018,Small,DEFAULT,2010-06-10,SCI,SG
+C100133,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,21-11-2012,Small,DEFAULT,2016-09-12,SCI,SG
+C100134,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,30-09-2023,Medium,DEFAULT,2019-05-26,SCI,SG
+C100135,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,14-02-2011,Small,DEFAULT,2019-10-11,SCI,SG
+C100136,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,16-07-2012,Small,DEFAULT,2019-01-26,SCI,SG
+C100137,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,12-11-2007,Medium,DEFAULT,2023-12-16,SCI,SG
+C100138,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,MM,Middle market,Active,15-11-2019,Medium,DEFAULT,2010-08-11,SCI,SG
+C100139,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,ME,Medium enterprises,Active,17-01-2008,Small,DEFAULT,2020-05-10,SCI,SG
+C100140,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,N,Financial Institution,Active,03-07-2013,Medium,DEFAULT,2017-05-05,SCI,SG
+C100141,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,27-07-2012,Large,DEFAULT,2018-07-03,SCI,SG
+C100142,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,30-08-2023,Large,DEFAULT,2019-06-16,SCI,SG
+C100143,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,HV,High value small business,Active,20-07-2015,Medium,DEFAULT,2010-06-08,SCI,SG
+C100144,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Dormant,06-11-2012,Medium,DEFAULT,2015-01-11,SCI,SG
+C100145,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,15-08-2019,Large,DEFAULT,2010-11-26,SCI,SG
+C100146,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,MM,Middle market,Active,16-06-2005,Medium,DEFAULT,2023-12-08,SCI,SG
+C100147,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,16-08-2015,Medium,DEFAULT,2012-07-26,SCI,SG
+C100148,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,01-10-2010,Medium,DEFAULT,2018-04-10,SCI,SG
+C100149,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,11-10-2021,Large,DEFAULT,2012-07-27,SCI,SG
+C100150,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,05-06-2007,Medium,DEFAULT,2022-12-24,SCI,SG
+C100151,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,K,Global corporate,Active,02-06-2013,Medium,DEFAULT,2018-11-24,SCI,SG
+C100152,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,28-06-2020,Small,DEFAULT,2015-06-13,SCI,SG
+C100153,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,07-10-2011,Medium,DEFAULT,2023-06-20,SCI,SG
+C100154,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,11-09-2017,Medium,DEFAULT,2010-12-03,SCI,SG
+C100155,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,E,Commodity Traders & Agriculture,Active,03-11-2019,Large,DEFAULT,2018-04-24,SCI,SG
+C100156,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,27-08-2012,Small,DEFAULT,2010-04-14,SCI,SG
+C100157,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,15-05-2007,Medium,DEFAULT,2019-09-22,SCI,SG
+C100158,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,E,Commodity Traders & Agriculture,Active,03-08-2023,Large,DEFAULT,2020-04-24,SCI,SG
+C100159,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,50,Private Banking,Active,17-06-2021,Medium,DEFAULT,2021-09-14,SCI,SG
+C100160,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,26-01-2017,Small,DEFAULT,2020-11-04,SCI,SG
+C100161,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,ME,Medium enterprises,Active,25-05-2021,Medium,DEFAULT,2023-04-16,SCI,SG
+C100162,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,S,Own account,Active,05-07-2010,Small,DEFAULT,2011-12-11,SCI,SG
+C100163,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,21-06-2010,Medium,DEFAULT,2020-06-03,SCI,SG
+C100164,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,E,Commodity Traders & Agriculture,Active,02-02-2016,Medium,DEFAULT,2017-04-16,SCI,SG
+C100165,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,16-12-2012,Small,DEFAULT,2015-10-18,SCI,SG
+C100166,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,16-05-2018,Large,DEFAULT,2016-03-13,SCI,SG
+C100167,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,01-06-2010,Large,DEFAULT,2019-02-12,SCI,SG
+C100168,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,23-05-2010,Small,DEFAULT,2020-09-05,SCI,SG
+C100169,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,HV,High value small business,Active,22-05-2005,Large,DEFAULT,2012-02-02,SCI,SG
+C100170,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,HV,High value small business,Active,08-07-2020,Medium,DEFAULT,2015-06-17,SCI,SG
+C100171,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,12-04-2013,Medium,DEFAULT,2020-08-12,SCI,SG
+C100172,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,24-09-2021,Medium,DEFAULT,2022-05-06,SCI,SG
+C100173,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,07-03-2015,Large,DEFAULT,2016-01-29,SCI,SG
+C100174,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,16-09-2007,Medium,DEFAULT,2014-04-27,SCI,SG
+C100175,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,07-01-2017,Small,DEFAULT,2014-02-25,SCI,SG
+C100176,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,11-11-2015,Large,DEFAULT,2016-03-15,SCI,SG
+C100177,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Dormant,04-09-2023,Medium,DEFAULT,2014-05-10,SCI,SG
+C100178,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,09-01-2009,Medium,DEFAULT,2016-10-12,SCI,SG
+C100179,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,S,Own account,Active,08-01-2006,Medium,DEFAULT,2011-03-23,SCI,SG
+C100180,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,01-11-2007,Medium,DEFAULT,2021-01-04,SCI,SG
+C100181,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,HV,High value small business,Active,16-11-2017,Medium,DEFAULT,2016-05-18,SCI,SG
+C100182,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,23-08-2012,Medium,DEFAULT,2014-02-19,SCI,SG
+C100183,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,S,Own account,Active,19-09-2015,Small,DEFAULT,2012-07-23,SCI,SG
+C100184,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,50,Private Banking,Active,30-08-2006,Large,DEFAULT,2022-12-10,SCI,SG
+C100185,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,12-03-2023,Large,DEFAULT,2022-08-16,SCI,SG
+C100186,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,27-07-2010,Medium,DEFAULT,2012-08-28,SCI,SG
+C100187,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,26-09-2022,Medium,DEFAULT,2023-11-15,SCI,SG
+C100188,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,14-07-2013,Large,DEFAULT,2020-02-08,SCI,SG
+C100189,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,MM,Middle market,Active,15-03-2018,Medium,DEFAULT,2019-08-14,SCI,SG
+C100190,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,09-05-2006,Medium,DEFAULT,2023-09-04,SCI,SG
+C100191,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,30-08-2009,Small,DEFAULT,2014-09-25,SCI,SG
+C100192,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,10-07-2008,Small,DEFAULT,2015-05-19,SCI,SG
+C100193,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,06-07-2008,Large,DEFAULT,2010-01-22,SCI,SG
+C100194,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,ME,Medium enterprises,Active,27-04-2018,Small,DEFAULT,2020-07-16,SCI,SG
+C100195,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,S,Own account,Active,19-06-2011,Medium,DEFAULT,2016-05-05,SCI,SG
+C100196,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,28-03-2010,Small,DEFAULT,2015-12-08,SCI,SG
+C100197,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,20-03-2017,Small,DEFAULT,2015-01-16,SCI,SG
+C100198,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,MM,Middle market,Active,17-07-2023,Medium,DEFAULT,2013-03-11,SCI,SG
+C100199,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,ME,Medium enterprises,Active,12-10-2022,Small,DEFAULT,2016-11-24,SCI,SG
+C100200,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,07-07-2015,Small,DEFAULT,2016-10-27,SCI,SG
+C100201,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,23-03-2016,Small,DEFAULT,2022-02-10,SCI,SG
+C100202,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,01-06-2018,Small,DEFAULT,2010-11-23,SCI,SG
+C100203,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,17-07-2018,Large,DEFAULT,2015-08-14,SCI,SG
+C100204,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,N,Financial Institution,Active,02-10-2023,Large,DEFAULT,2022-11-26,SCI,SG
+C100205,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,A,Local Corporate,Active,17-01-2011,Small,DEFAULT,2022-12-04,SCI,SG
+C100206,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,S,Own account,Active,06-12-2008,Medium,DEFAULT,2020-07-21,SCI,SG
+C100207,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,K,Global corporate,Active,26-01-2009,Medium,DEFAULT,2023-02-17,SCI,SG
+C100208,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,12-01-2016,Medium,DEFAULT,2012-01-18,SCI,SG
+C100209,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,23-06-2012,Small,DEFAULT,2017-03-15,SCI,SG
+C100210,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,25-05-2012,Small,DEFAULT,2019-03-27,SCI,SG
+C100211,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,25-12-2013,Medium,DEFAULT,2022-05-04,SCI,SG
+C100212,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,21-01-2012,Medium,DEFAULT,2015-08-30,SCI,SG
+C100213,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,E,Commodity Traders & Agriculture,Active,30-04-2022,Small,DEFAULT,2019-01-25,SCI,SG
+C100214,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,A,Local Corporate,Active,09-04-2014,Large,DEFAULT,2011-03-21,SCI,SG
+C100215,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,30,Business Clients,Active,19-12-2018,Small,DEFAULT,2021-03-07,SCI,SG
+C100216,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,K,Global corporate,Active,26-07-2009,Large,DEFAULT,2015-12-28,SCI,SG
+C100217,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,30-10-2014,Small,DEFAULT,2020-11-14,SCI,SG
+C100218,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,30,Business Clients,Active,18-02-2019,Small,DEFAULT,2023-08-28,SCI,SG
+C100219,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,21-12-2011,Large,DEFAULT,2022-05-10,SCI,SG
+C100220,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,15-11-2023,Small,DEFAULT,2012-07-18,SCI,SG
+C100221,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,13-07-2019,Medium,DEFAULT,2013-06-15,SCI,SG
+C100222,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,19-07-2011,Small,DEFAULT,2021-05-31,SCI,SG
+C100223,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,S,Own account,Active,28-10-2015,Small,DEFAULT,2020-08-04,SCI,SG
+C100224,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,30-03-2008,Large,DEFAULT,2018-08-09,SCI,SG
+C100225,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,MM,Middle market,Active,26-05-2016,Medium,DEFAULT,2013-01-23,SCI,SG
+C100226,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,E,Commodity Traders & Agriculture,Active,20-09-2022,Small,DEFAULT,2019-04-23,SCI,SG
+C100227,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,22-05-2016,Medium,DEFAULT,2015-12-29,SCI,SG
+C100228,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,30,Business Clients,Active,02-03-2018,Medium,DEFAULT,2023-01-03,SCI,SG
+C100229,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,07-01-2015,Large,DEFAULT,2022-01-30,SCI,SG
+C100230,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,19-05-2017,Medium,DEFAULT,2022-03-10,SCI,SG
+C100231,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,21-03-2012,Medium,DEFAULT,2014-03-26,SCI,SG
+C100232,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,S,Own account,Active,29-03-2010,Medium,DEFAULT,2019-03-20,SCI,SG
+C100233,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,11-08-2015,Small,DEFAULT,2018-07-21,SCI,SG
+C100234,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Dormant,10-10-2022,Small,DEFAULT,2013-05-31,SCI,SG
+C100235,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,01-11-2007,Small,DEFAULT,2021-04-07,SCI,SG
+C100236,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,15-12-2023,Small,DEFAULT,2019-11-16,SCI,SG
+C100237,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,02-04-2015,Small,DEFAULT,2010-05-06,SCI,SG
+C100238,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,08-09-2019,Medium,DEFAULT,2013-06-18,SCI,SG
+C100239,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,S,Own account,Active,12-12-2010,Medium,DEFAULT,2017-08-05,SCI,SG
+C100240,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,15-05-2012,Medium,DEFAULT,2021-12-20,SCI,SG
+C100241,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,HV,High value small business,Active,22-01-2019,Medium,DEFAULT,2020-12-11,SCI,SG
+C100242,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,08-04-2010,Small,DEFAULT,2016-06-12,SCI,SG
+C100243,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,30,Business Clients,Active,26-09-2014,Medium,DEFAULT,2012-03-17,SCI,SG
+C100244,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,26-07-2020,Small,DEFAULT,2016-09-19,SCI,SG
+C100245,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,HV,High value small business,Active,01-08-2011,Medium,DEFAULT,2018-01-15,SCI,SG
+C100246,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,24-06-2010,Large,DEFAULT,2021-11-30,SCI,SG
+C100247,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,HV,High value small business,Active,11-10-2022,Medium,DEFAULT,2014-01-15,SCI,SG
+C100248,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,02-09-2018,Large,DEFAULT,2018-07-31,SCI,SG
+C100249,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,S,Own account,Active,30-01-2018,Small,DEFAULT,2013-03-18,SCI,SG
+C100250,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,12-09-2010,Medium,DEFAULT,2020-04-22,SCI,SG
+C100251,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,18-01-2023,Small,DEFAULT,2020-06-08,SCI,SG
+C100252,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,ME,Medium enterprises,Active,18-07-2008,Large,DEFAULT,2011-08-29,SCI,SG
+C100253,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,N,Financial Institution,Active,07-03-2018,Small,DEFAULT,2016-09-16,SCI,SG
+C100254,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,S,Own account,Active,01-04-2015,Small,DEFAULT,2016-10-10,SCI,SG
+C100255,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Dormant,03-11-2015,Medium,DEFAULT,2012-05-23,SCI,SG
+C100256,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,NA,Not applicable,Active,19-01-2013,Small,DEFAULT,2022-11-22,SCI,SG
+C100257,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Dormant,16-08-2011,Large,DEFAULT,2010-06-29,SCI,SG
+C100258,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,11-09-2017,Small,DEFAULT,2011-02-06,SCI,SG
+C100259,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,03-06-2011,Large,DEFAULT,2015-03-01,SCI,SG
+C100260,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,07-04-2009,Medium,DEFAULT,2023-12-05,SCI,SG
+C100261,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,S,Own account,Active,03-03-2021,Small,DEFAULT,2013-01-25,SCI,SG
+C100262,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,01-07-2019,Medium,DEFAULT,2010-11-19,SCI,SG
+C100263,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,E,Commodity Traders & Agriculture,Active,01-10-2005,Medium,DEFAULT,2022-12-31,SCI,SG
+C100264,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,30,Business Clients,Active,09-01-2007,Small,DEFAULT,2016-08-14,SCI,SG
+C100265,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,MM,Middle market,Active,09-12-2008,Small,DEFAULT,2014-07-03,SCI,SG
+C100266,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,S,Own account,Active,17-03-2013,Medium,DEFAULT,2021-11-27,SCI,SG
+C100267,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,07-10-2010,Small,DEFAULT,2020-10-22,SCI,SG
+C100268,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,06-08-2012,Medium,DEFAULT,2012-08-01,SCI,SG
+C100269,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,HV,High value small business,Active,28-02-2008,Large,DEFAULT,2015-01-23,SCI,SG
+C100270,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,S,Own account,Active,18-01-2023,Medium,DEFAULT,2022-07-02,SCI,SG
+C100271,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,07-11-2013,Medium,DEFAULT,2010-04-25,SCI,SG
+C100272,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,15-03-2015,Medium,DEFAULT,2018-04-08,SCI,SG
+C100273,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,13-06-2023,Medium,DEFAULT,2018-05-02,SCI,SG
+C100274,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,30-07-2015,Small,DEFAULT,2010-07-25,SCI,SG
+C100275,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,19-12-2009,Small,DEFAULT,2011-06-02,SCI,SG
+C100276,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,K,Global corporate,Active,12-10-2011,Medium,DEFAULT,2019-02-27,SCI,SG
+C100277,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,01-11-2005,Medium,DEFAULT,2016-10-29,SCI,SG
+C100278,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,08-04-2010,Large,DEFAULT,2022-01-21,SCI,SG
+C100279,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,28-04-2013,Medium,DEFAULT,2022-02-12,SCI,SG
+C100280,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,ME,Medium enterprises,Active,19-04-2021,Medium,DEFAULT,2013-06-19,SCI,SG
+C100281,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,13-09-2023,Large,DEFAULT,2020-12-22,SCI,SG
+C100282,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,11-04-2011,Medium,DEFAULT,2010-09-26,SCI,SG
+C100283,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,22-12-2014,Medium,DEFAULT,2015-04-19,SCI,SG
+C100284,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,N,Financial Institution,Active,19-05-2020,Medium,DEFAULT,2018-03-29,SCI,SG
+C100285,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,11-03-2011,Small,DEFAULT,2014-04-04,SCI,SG
+C100286,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,27-06-2023,Medium,DEFAULT,2020-03-14,SCI,SG
+C100287,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,MM,Middle market,Active,24-05-2019,Small,DEFAULT,2023-05-24,SCI,SG
+C100288,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,30,Business Clients,Active,29-10-2007,Small,DEFAULT,2022-08-31,SCI,SG
+C100289,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,HV,High value small business,Active,01-03-2022,Medium,DEFAULT,2022-06-07,SCI,SG
+C100290,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,HV,High value small business,Active,28-03-2023,Small,DEFAULT,2015-03-24,SCI,SG
+C100291,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,HV,High value small business,Active,09-09-2022,Medium,DEFAULT,2023-05-15,SCI,SG
+C100292,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,K,Global corporate,Dormant,01-12-2007,Medium,DEFAULT,2022-02-12,SCI,SG
+C100293,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,20-06-2007,Large,DEFAULT,2010-07-31,SCI,SG
+C100294,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,20-09-2022,Large,DEFAULT,2015-05-04,SCI,SG
+C100295,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,14-12-2010,Medium,DEFAULT,2011-03-06,SCI,SG
+C100296,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,50,Private Banking,Active,19-10-2016,Medium,DEFAULT,2012-07-20,SCI,SG
+C100297,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,N,Financial Institution,Active,14-06-2022,Medium,DEFAULT,2018-02-13,SCI,SG
+C100298,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,ME,Medium enterprises,Active,20-12-2009,Large,DEFAULT,2023-10-18,SCI,SG
+C100299,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,50,Private Banking,Active,12-10-2019,Large,DEFAULT,2021-09-11,SCI,SG
+C100300,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,13-09-2005,Medium,DEFAULT,2011-05-14,SCI,SG
+C100301,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,50,Private Banking,Active,25-07-2014,Large,DEFAULT,2012-06-03,SCI,SG
+C100302,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,13-12-2014,Medium,DEFAULT,2011-08-26,SCI,SG
+C100303,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,30-04-2008,Medium,DEFAULT,2011-06-23,SCI,SG
+C100304,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,15-03-2019,Medium,DEFAULT,2023-02-17,SCI,SG
+C100305,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,26-05-2018,Small,DEFAULT,2021-11-25,SCI,SG
+C100306,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,31-07-2018,Large,DEFAULT,2019-08-26,SCI,SG
+C100307,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,27-07-2007,Small,DEFAULT,2022-05-14,SCI,SG
+C100308,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,30,Business Clients,Active,15-02-2010,Medium,DEFAULT,2019-04-13,SCI,SG
+C100309,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,MM,Middle market,Active,11-12-2013,Small,DEFAULT,2019-05-01,SCI,SG
+C100310,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,50,Private Banking,Active,05-01-2012,Medium,DEFAULT,2015-09-20,SCI,SG
+C100311,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,28-05-2020,Medium,DEFAULT,2020-08-21,SCI,SG
+C100312,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,01-12-2006,Medium,DEFAULT,2012-02-03,SCI,SG
+C100313,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,HV,High value small business,Active,28-07-2021,Small,DEFAULT,2018-05-11,SCI,SG
+C100314,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,26-02-2018,Medium,DEFAULT,2022-08-06,SCI,SG
+C100315,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,ME,Medium enterprises,Active,20-03-2014,Small,DEFAULT,2017-12-06,SCI,SG
+C100316,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,04-03-2021,Medium,DEFAULT,2011-02-26,SCI,SG
+C100317,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,20-11-2012,Medium,DEFAULT,2012-04-28,SCI,SG
+C100318,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,26-10-2015,Medium,DEFAULT,2015-01-12,SCI,SG
+C100319,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,23-06-2017,Medium,DEFAULT,2018-03-31,SCI,SG
+C100320,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,30,Business Clients,Active,17-11-2017,Medium,DEFAULT,2015-01-27,SCI,SG
+C100321,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,19-03-2022,Medium,DEFAULT,2023-12-12,SCI,SG
+C100322,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,21-07-2020,Small,DEFAULT,2015-12-31,SCI,SG
+C100323,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,K,Global corporate,Active,07-12-2011,Medium,DEFAULT,2017-08-15,SCI,SG
+C100324,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,19-03-2008,Medium,DEFAULT,2022-09-14,SCI,SG
+C100325,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,15-08-2021,Medium,DEFAULT,2010-09-09,SCI,SG
+C100326,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,29-10-2009,Small,DEFAULT,2018-06-09,SCI,SG
+C100327,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,E,Commodity Traders & Agriculture,Active,13-07-2008,Large,DEFAULT,2018-04-20,SCI,SG
+C100328,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,04-06-2022,Medium,DEFAULT,2022-09-24,SCI,SG
+C100329,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,28-06-2008,Medium,DEFAULT,2013-07-13,SCI,SG
+C100330,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,08-02-2011,Small,DEFAULT,2019-12-09,SCI,SG
+C100331,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,01-12-2014,Medium,DEFAULT,2019-04-16,SCI,SG
+C100332,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,29-06-2016,Large,DEFAULT,2012-07-21,SCI,SG
+C100333,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,10-05-2011,Large,DEFAULT,2023-04-21,SCI,SG
+C100334,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,50,Private Banking,Active,02-12-2011,Medium,DEFAULT,2011-01-08,SCI,SG
+C100335,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,50,Private Banking,Active,11-06-2018,Small,DEFAULT,2011-03-25,SCI,SG
+C100336,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,30,Business Clients,Active,19-03-2022,Medium,DEFAULT,2013-01-29,SCI,SG
+C100337,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,E,Commodity Traders & Agriculture,Active,10-09-2007,Small,DEFAULT,2010-03-05,SCI,SG
+C100338,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,10-12-2008,Medium,DEFAULT,2012-11-24,SCI,SG
+C100339,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,S,Own account,Active,01-03-2010,Small,DEFAULT,2021-03-22,SCI,SG
+C100340,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,23-08-2021,Medium,DEFAULT,2010-12-13,SCI,SG
+C100341,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,50,Private Banking,Active,30-09-2006,Medium,DEFAULT,2017-01-08,SCI,SG
+C100342,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,NA,Not applicable,Active,30-11-2020,Medium,DEFAULT,2019-05-15,SCI,SG
+C100343,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,20-06-2005,Medium,DEFAULT,2017-04-14,SCI,SG
+C100344,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,ME,Medium enterprises,Active,12-11-2018,Large,DEFAULT,2020-04-27,SCI,SG
+C100345,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,11-12-2023,Medium,DEFAULT,2012-05-17,SCI,SG
+C100346,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,K,Global corporate,Active,25-12-2013,Medium,DEFAULT,2021-10-02,SCI,SG
+C100347,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,17-12-2011,Medium,DEFAULT,2017-08-13,SCI,SG
+C100348,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,09-10-2008,Medium,DEFAULT,2011-09-18,SCI,SG
+C100349,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,50,Private Banking,Active,08-05-2009,Medium,DEFAULT,2017-11-02,SCI,SG
+C100350,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,15-05-2023,Large,DEFAULT,2013-04-24,SCI,SG
+C100351,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,28-09-2010,Large,DEFAULT,2014-06-05,SCI,SG
+C100352,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,19-01-2022,Small,DEFAULT,2011-09-10,SCI,SG
+C100353,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,01-02-2019,Small,DEFAULT,2021-01-30,SCI,SG
+C100354,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,16-01-2022,Medium,DEFAULT,2022-12-31,SCI,SG
+C100355,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,ME,Medium enterprises,Active,30-08-2017,Medium,DEFAULT,2017-04-01,SCI,SG
+C100356,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,HV,High value small business,Active,14-07-2006,Medium,DEFAULT,2020-07-08,SCI,SG
+C100357,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,11-11-2022,Small,DEFAULT,2016-02-29,SCI,SG
+C100358,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,MM,Middle market,Active,31-08-2006,Small,DEFAULT,2016-12-17,SCI,SG
+C100359,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,12-04-2006,Small,DEFAULT,2018-04-09,SCI,SG
+C100360,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,NA,Not applicable,Active,10-01-2007,Large,DEFAULT,2023-10-18,SCI,SG
+C100361,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,07-06-2017,Small,DEFAULT,2010-12-03,SCI,SG
+C100362,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,K,Global corporate,Active,28-10-2017,Small,DEFAULT,2014-03-23,SCI,SG
+C100363,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,31-03-2016,Small,DEFAULT,2013-05-20,SCI,SG
+C100364,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,11-03-2023,Large,DEFAULT,2017-09-14,SCI,SG
+C100365,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,50,Private Banking,Active,14-11-2008,Small,DEFAULT,2010-11-17,SCI,SG
+C100366,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,09-11-2014,Medium,DEFAULT,2021-10-03,SCI,SG
+C100367,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,07-05-2011,Small,DEFAULT,2018-09-09,SCI,SG
+C100368,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,24-03-2020,Small,DEFAULT,2023-05-30,SCI,SG
+C100369,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,E,Commodity Traders & Agriculture,Active,09-07-2019,Medium,DEFAULT,2017-07-04,SCI,SG
+C100370,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,HV,High value small business,Active,07-07-2017,Medium,DEFAULT,2018-09-02,SCI,SG
+C100371,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,ME,Medium enterprises,Active,23-09-2019,Medium,DEFAULT,2023-07-09,SCI,SG
+C100372,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,26-01-2018,Small,DEFAULT,2013-03-04,SCI,SG
+C100373,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,19-09-2019,Medium,DEFAULT,2018-10-16,SCI,SG
+C100374,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,N,Financial Institution,Active,26-11-2006,Medium,DEFAULT,2016-12-11,SCI,SG
+C100375,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,14-05-2012,Small,DEFAULT,2012-11-12,SCI,SG
+C100376,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,01-07-2014,Medium,DEFAULT,2021-05-28,SCI,SG
+C100377,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,30,Business Clients,Active,06-12-2011,Small,DEFAULT,2014-01-16,SCI,SG
+C100378,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,09-03-2022,Medium,DEFAULT,2020-11-27,SCI,SG
+C100379,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,N,Financial Institution,Active,01-02-2008,Small,DEFAULT,2013-06-23,SCI,SG
+C100380,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,50,Private Banking,Active,05-09-2022,Medium,DEFAULT,2012-04-08,SCI,SG
+C100381,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,10-03-2022,Small,DEFAULT,2023-11-11,SCI,SG
+C100382,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,17-06-2008,Medium,DEFAULT,2013-08-22,SCI,SG
+C100383,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,ME,Medium enterprises,Active,18-04-2022,Small,DEFAULT,2013-09-18,SCI,SG
+C100384,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,04-03-2013,Small,DEFAULT,2015-04-30,SCI,SG
+C100385,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,16-11-2021,Small,DEFAULT,2020-01-26,SCI,SG
+C100386,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,30,Business Clients,Active,11-12-2011,Medium,DEFAULT,2020-07-09,SCI,SG
+C100387,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,MM,Middle market,Active,17-10-2017,Large,DEFAULT,2019-11-19,SCI,SG
+C100388,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,15-06-2022,Small,DEFAULT,2018-07-26,SCI,SG
+C100389,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,ME,Medium enterprises,Active,28-04-2023,Medium,DEFAULT,2014-06-24,SCI,SG
+C100390,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,04-03-2006,Medium,DEFAULT,2020-10-11,SCI,SG
+C100391,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,21-04-2007,Medium,DEFAULT,2021-07-28,SCI,SG
+C100392,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,50,Private Banking,Active,12-02-2022,Small,DEFAULT,2013-08-06,SCI,SG
+C100393,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,07-07-2016,Medium,DEFAULT,2013-04-22,SCI,SG
+C100394,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,HV,High value small business,Active,24-12-2009,Small,DEFAULT,2020-02-13,SCI,SG
+C100395,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,50,Private Banking,Active,22-04-2014,Medium,DEFAULT,2011-03-13,SCI,SG
+C100396,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,16-04-2010,Medium,DEFAULT,2018-08-30,SCI,SG
+C100397,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,19-08-2005,Small,DEFAULT,2017-02-23,SCI,SG
+C100398,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,NA,Not applicable,Active,31-07-2019,Medium,DEFAULT,2017-07-09,SCI,SG
+C100399,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,09-06-2011,Small,DEFAULT,2020-08-06,SCI,SG
+C100400,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,10-07-2015,Large,DEFAULT,2020-01-23,SCI,SG
+C100401,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,K,Global corporate,Active,02-11-2009,Medium,DEFAULT,2013-05-09,SCI,SG
+C100402,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,E,Commodity Traders & Agriculture,Active,19-06-2011,Small,DEFAULT,2015-05-01,SCI,SG
+C100403,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,NA,Not applicable,Active,08-05-2010,Small,DEFAULT,2019-06-02,SCI,SG
+C100404,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,HV,High value small business,Active,08-10-2023,Large,DEFAULT,2021-03-18,SCI,SG
+C100405,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,S,Own account,Active,12-02-2021,Small,DEFAULT,2013-03-22,SCI,SG
+C100406,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,16-10-2018,Small,DEFAULT,2017-11-30,SCI,SG
+C100407,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,15-03-2009,Medium,DEFAULT,2011-12-03,SCI,SG
+C100408,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,19-10-2016,Medium,DEFAULT,2022-03-16,SCI,SG
+C100409,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,05-04-2019,Medium,DEFAULT,2018-09-05,SCI,SG
+C100410,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,14-05-2005,Large,DEFAULT,2018-01-04,SCI,SG
+C100411,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,10-06-2021,Medium,DEFAULT,2012-04-29,SCI,SG
+C100412,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,26-11-2012,Small,DEFAULT,2022-03-31,SCI,SG
+C100413,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,05-12-2008,Medium,DEFAULT,2020-06-03,SCI,SG
+C100414,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,15-03-2023,Medium,DEFAULT,2013-01-09,SCI,SG
+C100415,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,08-04-2015,Medium,DEFAULT,2010-10-30,SCI,SG
+C100416,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,29-09-2022,Large,DEFAULT,2014-06-23,SCI,SG
+C100417,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,HV,High value small business,Active,16-12-2011,Medium,DEFAULT,2021-07-24,SCI,SG
+C100418,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,N,Financial Institution,Dormant,07-03-2017,Medium,DEFAULT,2020-08-14,SCI,SG
+C100419,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,06-07-2019,Medium,DEFAULT,2014-04-15,SCI,SG
+C100420,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,07-07-2022,Medium,DEFAULT,2011-01-27,SCI,SG
+C100421,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,50,Private Banking,Active,06-12-2022,Small,DEFAULT,2018-04-03,SCI,SG
+C100422,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,03-09-2021,Medium,DEFAULT,2019-11-12,SCI,SG
+C100423,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,11-03-2009,Small,DEFAULT,2021-02-16,SCI,SG
+C100424,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,K,Global corporate,Active,19-11-2022,Medium,DEFAULT,2021-08-24,SCI,SG
+C100425,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,23-04-2021,Small,DEFAULT,2019-07-10,SCI,SG
+C100426,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,12-06-2023,Small,DEFAULT,2014-01-18,SCI,SG
+C100427,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,18-10-2006,Large,DEFAULT,2017-05-10,SCI,SG
+C100428,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,08-07-2018,Medium,DEFAULT,2019-07-23,SCI,SG
+C100429,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,19-11-2012,Large,DEFAULT,2020-01-11,SCI,SG
+C100430,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,MM,Middle market,Active,28-11-2012,Medium,DEFAULT,2023-10-16,SCI,SG
+C100431,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,02-10-2022,Medium,DEFAULT,2011-04-15,SCI,SG
+C100432,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,E,Commodity Traders & Agriculture,Active,10-02-2014,Medium,DEFAULT,2018-02-24,SCI,SG
+C100433,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,50,Private Banking,Active,15-03-2008,Large,DEFAULT,2023-08-18,SCI,SG
+C100434,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,MM,Middle market,Active,05-07-2006,Small,DEFAULT,2015-04-18,SCI,SG
+C100435,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,21-09-2017,Medium,DEFAULT,2010-09-23,SCI,SG
+C100436,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,27-04-2013,Medium,DEFAULT,2018-05-06,SCI,SG
+C100437,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,15-11-2017,Large,DEFAULT,2013-02-01,SCI,SG
+C100438,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,ME,Medium enterprises,Active,28-07-2019,Medium,DEFAULT,2016-04-02,SCI,SG
+C100439,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,30,Business Clients,Active,01-08-2005,Medium,DEFAULT,2014-03-05,SCI,SG
+C100440,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,07-08-2017,Medium,DEFAULT,2012-08-22,SCI,SG
+C100441,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,16-10-2020,Large,DEFAULT,2020-01-04,SCI,SG
+C100442,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,MM,Middle market,Dormant,29-05-2011,Large,DEFAULT,2021-01-06,SCI,SG
+C100443,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,30-08-2006,Medium,DEFAULT,2020-02-21,SCI,SG
+C100444,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,26-12-2014,Medium,DEFAULT,2011-12-21,SCI,SG
+C100445,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,ME,Medium enterprises,Active,30-11-2020,Small,DEFAULT,2011-06-16,SCI,SG
+C100446,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,14-07-2008,Medium,DEFAULT,2013-11-27,SCI,SG
+C100447,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,ME,Medium enterprises,Active,22-09-2007,Medium,DEFAULT,2014-07-05,SCI,SG
+C100448,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,31-01-2016,Small,DEFAULT,2010-08-04,SCI,SG
+C100449,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,30,Business Clients,Active,11-04-2013,Large,DEFAULT,2020-06-25,SCI,SG
+C100450,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,08-12-2006,Large,DEFAULT,2011-06-23,SCI,SG
+C100451,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,30-01-2021,Medium,DEFAULT,2020-09-26,SCI,SG
+C100452,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,E,Commodity Traders & Agriculture,Active,20-06-2023,Small,DEFAULT,2022-11-23,SCI,SG
+C100453,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,MM,Middle market,Active,11-02-2012,Medium,DEFAULT,2011-08-31,SCI,SG
+C100454,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,09-08-2016,Medium,DEFAULT,2017-09-23,SCI,SG
+C100455,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,02-07-2022,Medium,DEFAULT,2022-05-14,SCI,SG
+C100456,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,24-11-2007,Medium,DEFAULT,2019-09-15,SCI,SG
+C100457,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,15-08-2016,Medium,DEFAULT,2013-06-07,SCI,SG
+C100458,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,28-03-2012,Small,DEFAULT,2015-01-22,SCI,SG
+C100459,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,ME,Medium enterprises,Active,21-08-2016,Large,DEFAULT,2016-05-15,SCI,SG
+C100460,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,MM,Middle market,Active,31-03-2019,Medium,DEFAULT,2022-05-10,SCI,SG
+C100461,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,N,Financial Institution,Active,17-10-2011,Small,DEFAULT,2023-10-13,SCI,SG
+C100462,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,E,Commodity Traders & Agriculture,Active,13-10-2008,Large,DEFAULT,2023-04-11,SCI,SG
+C100463,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,03-01-2019,Medium,DEFAULT,2023-07-29,SCI,SG
+C100464,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,23-08-2017,Medium,DEFAULT,2010-12-04,SCI,SG
+C100465,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,30,Business Clients,Active,18-04-2022,Small,DEFAULT,2022-12-08,SCI,SG
+C100466,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,S,Own account,Active,15-03-2022,Medium,DEFAULT,2022-10-31,SCI,SG
+C100467,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,50,Private Banking,Active,06-09-2005,Medium,DEFAULT,2021-03-03,SCI,SG
+C100468,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,11-10-2011,Small,DEFAULT,2020-10-31,SCI,SG
+C100469,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,30,Business Clients,Active,13-05-2020,Medium,DEFAULT,2019-02-09,SCI,SG
+C100470,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,12-06-2020,Medium,DEFAULT,2011-05-06,SCI,SG
+C100471,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,ME,Medium enterprises,Active,11-11-2015,Small,DEFAULT,2020-06-01,SCI,SG
+C100472,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,22-03-2008,Large,DEFAULT,2017-01-04,SCI,SG
+C100473,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,30-09-2012,Small,DEFAULT,2018-12-11,SCI,SG
+C100474,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,MM,Middle market,Active,20-07-2016,Medium,DEFAULT,2022-08-07,SCI,SG
+C100475,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,19-06-2015,Medium,DEFAULT,2012-09-30,SCI,SG
+C100476,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,50,Private Banking,Active,29-02-2008,Small,DEFAULT,2012-03-04,SCI,SG
+C100477,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,E,Commodity Traders & Agriculture,Active,13-08-2013,Medium,DEFAULT,2023-10-21,SCI,SG
+C100478,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,01-08-2008,Large,DEFAULT,2017-05-06,SCI,SG
+C100479,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,50,Private Banking,Active,29-07-2008,Small,DEFAULT,2021-03-05,SCI,SG
+C100480,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,03-12-2011,Medium,DEFAULT,2021-02-26,SCI,SG
+C100481,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,A,Local Corporate,Active,04-04-2015,Medium,DEFAULT,2015-05-27,SCI,SG
+C100482,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,03-02-2006,Medium,DEFAULT,2011-02-19,SCI,SG
+C100483,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,ME,Medium enterprises,Active,27-11-2023,Medium,DEFAULT,2020-07-22,SCI,SG
+C100484,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,31-05-2007,Medium,DEFAULT,2019-09-01,SCI,SG
+C100485,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,26-04-2021,Small,DEFAULT,2018-03-16,SCI,SG
+C100486,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,26-12-2013,Medium,DEFAULT,2011-02-24,SCI,SG
+C100487,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,30,Business Clients,Active,23-06-2011,Medium,DEFAULT,2011-08-26,SCI,SG
+C100488,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,22-02-2022,Large,DEFAULT,2022-05-02,SCI,SG
+C100489,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,HV,High value small business,Active,24-12-2018,Medium,DEFAULT,2023-09-15,SCI,SG
+C100490,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,04-03-2007,Small,DEFAULT,2018-11-01,SCI,SG
+C100491,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,30,Business Clients,Active,09-08-2012,Large,DEFAULT,2022-07-06,SCI,SG
+C100492,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,ME,Medium enterprises,Active,19-06-2009,Medium,DEFAULT,2023-07-07,SCI,SG
+C100493,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,07-01-2006,Medium,DEFAULT,2010-11-15,SCI,SG
+C100494,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,13-01-2023,Small,DEFAULT,2020-08-16,SCI,SG
+C100495,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,MM,Middle market,Active,25-07-2016,Medium,DEFAULT,2013-02-19,SCI,SG
+C100496,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,23-02-2012,Medium,DEFAULT,2013-08-24,SCI,SG
+C100497,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Dormant,01-08-2021,Large,DEFAULT,2016-09-17,SCI,SG
+C100498,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,N,Financial Institution,Active,07-06-2016,Large,DEFAULT,2021-12-09,SCI,SG
+C100499,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,22-09-2011,Medium,DEFAULT,2020-08-26,SCI,SG
+C100500,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,50,Private Banking,Active,06-05-2014,Medium,DEFAULT,2023-02-03,SCI,SG
+C100501,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,08-04-2021,Small,DEFAULT,2010-08-07,SCI,SG
+C100502,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,15-09-2019,Medium,DEFAULT,2022-12-22,SCI,SG
+C100503,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,02-02-2018,Small,DEFAULT,2020-10-10,SCI,SG
+C100504,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,05-03-2021,Medium,DEFAULT,2023-11-25,SCI,SG
+C100505,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,08-04-2020,Small,DEFAULT,2015-06-08,SCI,SG
+C100506,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,S,Own account,Active,17-09-2020,Large,DEFAULT,2012-06-19,SCI,SG
+C100507,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,14-01-2012,Small,DEFAULT,2019-05-24,SCI,SG
+C100508,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,50,Private Banking,Active,29-07-2009,Medium,DEFAULT,2019-03-16,SCI,SG
+C100509,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,N,Financial Institution,Active,03-07-2021,Large,DEFAULT,2011-05-26,SCI,SG
+C100510,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,31-07-2017,Medium,DEFAULT,2017-04-16,SCI,SG
+C100511,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,NA,Not applicable,Active,15-01-2012,Small,DEFAULT,2013-11-19,SCI,SG
+C100512,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,S,Own account,Active,05-09-2012,Medium,DEFAULT,2022-04-03,SCI,SG
+C100513,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,03-03-2021,Small,DEFAULT,2015-12-06,SCI,SG
+C100514,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,13-07-2010,Small,DEFAULT,2016-04-04,SCI,SG
+C100515,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,05-09-2011,Medium,DEFAULT,2016-06-25,SCI,SG
+C100516,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,20-12-2015,Large,DEFAULT,2017-02-10,SCI,SG
+C100517,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,03-11-2022,Medium,DEFAULT,2016-02-19,SCI,SG
+C100518,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,05-03-2020,Small,DEFAULT,2022-03-08,SCI,SG
+C100519,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,07-11-2013,Medium,DEFAULT,2017-09-28,SCI,SG
+C100520,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,15-06-2011,Small,DEFAULT,2011-10-10,SCI,SG
+C100521,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,18-09-2019,Medium,DEFAULT,2015-10-02,SCI,SG
+C100522,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,28-07-2023,Medium,DEFAULT,2022-01-30,SCI,SG
+C100523,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,13-08-2020,Large,DEFAULT,2016-02-04,SCI,SG
+C100524,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,MM,Middle market,Active,14-08-2021,Large,DEFAULT,2023-03-01,SCI,SG
+C100525,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,10-01-2020,Medium,DEFAULT,2021-11-29,SCI,SG
+C100526,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,NA,Not applicable,Active,07-03-2006,Small,DEFAULT,2012-03-31,SCI,SG
+C100527,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,S,Own account,Active,06-08-2015,Medium,DEFAULT,2012-04-03,SCI,SG
+C100528,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,06-05-2017,Medium,DEFAULT,2013-07-17,SCI,SG
+C100529,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,HV,High value small business,Active,02-09-2015,Medium,DEFAULT,2020-09-16,SCI,SG
+C100530,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,MM,Middle market,Active,12-06-2011,Small,DEFAULT,2017-03-16,SCI,SG
+C100531,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,ME,Medium enterprises,Active,30-03-2022,Medium,DEFAULT,2012-01-03,SCI,SG
+C100532,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,E,Commodity Traders & Agriculture,Active,21-03-2021,Small,DEFAULT,2010-11-02,SCI,SG
+C100533,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,15-10-2023,Large,DEFAULT,2013-12-11,SCI,SG
+C100534,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Dormant,27-11-2013,Medium,DEFAULT,2021-02-10,SCI,SG
+C100535,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,30-06-2011,Medium,DEFAULT,2010-11-03,SCI,SG
+C100536,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,30,Business Clients,Active,07-07-2012,Large,DEFAULT,2016-05-20,SCI,SG
+C100537,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,S,Own account,Dormant,09-03-2017,Medium,DEFAULT,2021-10-05,SCI,SG
+C100538,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,05-01-2008,Medium,DEFAULT,2021-04-23,SCI,SG
+C100539,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,21-02-2023,Small,DEFAULT,2012-07-11,SCI,SG
+C100540,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,MM,Middle market,Active,18-04-2015,Large,DEFAULT,2015-10-09,SCI,SG
+C100541,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,E,Commodity Traders & Agriculture,Active,24-07-2012,Small,DEFAULT,2016-08-13,SCI,SG
+C100542,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,S,Own account,Active,30-04-2019,Medium,DEFAULT,2019-02-04,SCI,SG
+C100543,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,12-12-2006,Large,DEFAULT,2018-12-28,SCI,SG
+C100544,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,26-02-2008,Medium,DEFAULT,2020-09-16,SCI,SG
+C100545,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,S,Own account,Active,25-02-2005,Medium,DEFAULT,2015-11-07,SCI,SG
+C100546,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,27-11-2021,Medium,DEFAULT,2015-12-28,SCI,SG
+C100547,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,19-03-2021,Large,DEFAULT,2022-11-07,SCI,SG
+C100548,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,A,Local Corporate,Active,20-04-2010,Large,DEFAULT,2011-05-24,SCI,SG
+C100549,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,01-08-2008,Medium,DEFAULT,2019-02-04,SCI,SG
+C100550,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,30-04-2019,Small,DEFAULT,2016-08-13,SCI,SG
+C100551,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,01-12-2009,Small,DEFAULT,2012-12-30,SCI,SG
+C100552,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,09-10-2021,Large,DEFAULT,2023-08-03,SCI,SG
+C100553,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,27-04-2017,Small,DEFAULT,2020-07-24,SCI,SG
+C100554,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,05-04-2020,Large,DEFAULT,2023-05-13,SCI,SG
+C100555,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,MM,Middle market,Active,05-11-2016,Medium,DEFAULT,2018-02-11,SCI,SG
+C100556,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,09-07-2007,Medium,DEFAULT,2011-05-21,SCI,SG
+C100557,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,12-05-2008,Medium,DEFAULT,2013-09-09,SCI,SG
+C100558,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,29-11-2014,Small,DEFAULT,2012-08-10,SCI,SG
+C100559,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,19-12-2015,Large,DEFAULT,2012-01-15,SCI,SG
+C100560,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,MM,Middle market,Active,04-03-2015,Small,DEFAULT,2012-12-16,SCI,SG
+C100561,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,18-04-2006,Small,DEFAULT,2022-07-14,SCI,SG
+C100562,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,ME,Medium enterprises,Active,30-11-2011,Medium,DEFAULT,2010-06-28,SCI,SG
+C100563,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,25-01-2005,Medium,DEFAULT,2014-11-21,SCI,SG
+C100564,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,23-09-2012,Medium,DEFAULT,2011-06-07,SCI,SG
+C100565,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,ME,Medium enterprises,Active,20-07-2006,Medium,DEFAULT,2020-08-03,SCI,SG
+C100566,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,14-01-2009,Medium,DEFAULT,2013-01-14,SCI,SG
+C100567,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,ME,Medium enterprises,Active,31-07-2013,Large,DEFAULT,2020-01-23,SCI,SG
+C100568,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,MM,Middle market,Active,24-04-2020,Medium,DEFAULT,2022-02-04,SCI,SG
+C100569,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,HV,High value small business,Active,19-10-2012,Medium,DEFAULT,2012-08-29,SCI,SG
+C100570,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Dormant,25-10-2013,Medium,DEFAULT,2021-11-11,SCI,SG
+C100571,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,ME,Medium enterprises,Active,30-12-2009,Medium,DEFAULT,2010-01-29,SCI,SG
+C100572,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,A,Local Corporate,Active,16-02-2021,Small,DEFAULT,2022-03-19,SCI,SG
+C100573,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,20-06-2023,Medium,DEFAULT,2015-02-25,SCI,SG
+C100574,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,24-06-2008,Small,DEFAULT,2016-03-08,SCI,SG
+C100575,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,06-04-2021,Small,DEFAULT,2012-07-13,SCI,SG
+C100576,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,ME,Medium enterprises,Active,28-05-2014,Medium,DEFAULT,2023-10-17,SCI,SG
+C100577,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,K,Global corporate,Active,28-04-2018,Small,DEFAULT,2010-10-03,SCI,SG
+C100578,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,50,Private Banking,Active,10-10-2020,Small,DEFAULT,2011-02-03,SCI,SG
+C100579,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,09-01-2014,Large,DEFAULT,2019-11-05,SCI,SG
+C100580,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,02-12-2021,Large,DEFAULT,2011-04-08,SCI,SG
+C100581,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,28-06-2011,Small,DEFAULT,2015-04-03,SCI,SG
+C100582,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,50,Private Banking,Active,30-04-2022,Small,DEFAULT,2017-03-11,SCI,SG
+C100583,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,19-03-2008,Medium,DEFAULT,2021-09-10,SCI,SG
+C100584,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,30,Business Clients,Active,05-03-2011,Medium,DEFAULT,2011-05-15,SCI,SG
+C100585,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,01-08-2014,Small,DEFAULT,2022-06-20,SCI,SG
+C100586,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,K,Global corporate,Active,22-09-2012,Medium,DEFAULT,2018-07-20,SCI,SG
+C100587,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,27-02-2014,Medium,DEFAULT,2013-05-07,SCI,SG
+C100588,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,03-12-2021,Large,DEFAULT,2022-01-24,SCI,SG
+C100589,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,21-01-2010,Medium,DEFAULT,2016-09-29,SCI,SG
+C100590,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,S,Own account,Active,18-04-2006,Medium,DEFAULT,2022-08-13,SCI,SG
+C100591,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,02-07-2017,Small,DEFAULT,2021-11-20,SCI,SG
+C100592,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,20-09-2010,Small,DEFAULT,2014-07-24,SCI,SG
+C100593,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,ME,Medium enterprises,Active,02-02-2015,Large,DEFAULT,2018-04-28,SCI,SG
+C100594,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,09-08-2023,Small,DEFAULT,2014-04-10,SCI,SG
+C100595,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,10-02-2020,Medium,DEFAULT,2023-07-27,SCI,SG
+C100596,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,22-03-2009,Medium,DEFAULT,2023-03-07,SCI,SG
+C100597,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,30,Business Clients,Active,20-06-2012,Small,DEFAULT,2016-10-19,SCI,SG
+C100598,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,S,Own account,Active,19-08-2021,Small,DEFAULT,2012-08-19,SCI,SG
+C100599,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,08-08-2020,Large,DEFAULT,2023-07-23,SCI,SG
+C100600,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,15-05-2010,Large,DEFAULT,2022-05-20,SCI,SG
+C100601,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,16-07-2013,Medium,DEFAULT,2020-06-16,SCI,SG
+C100602,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,HV,High value small business,Active,25-01-2013,Small,DEFAULT,2021-07-02,SCI,SG
+C100603,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,03-01-2023,Medium,DEFAULT,2020-07-13,SCI,SG
+C100604,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,25-04-2013,Small,DEFAULT,2017-01-07,SCI,SG
+C100605,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,E,Commodity Traders & Agriculture,Active,18-12-2009,Medium,DEFAULT,2013-04-10,SCI,SG
+C100606,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,50,Private Banking,Active,28-12-2017,Small,DEFAULT,2019-05-14,SCI,SG
+C100607,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,ME,Medium enterprises,Active,26-05-2012,Medium,DEFAULT,2015-02-28,SCI,SG
+C100608,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,07-07-2010,Medium,DEFAULT,2021-03-14,SCI,SG
+C100609,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,ME,Medium enterprises,Active,06-06-2023,Medium,DEFAULT,2020-12-16,SCI,SG
+C100610,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,08-06-2021,Large,DEFAULT,2017-11-25,SCI,SG
+C100611,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,E,Commodity Traders & Agriculture,Active,05-04-2017,Small,DEFAULT,2020-12-14,SCI,SG
+C100612,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,E,Commodity Traders & Agriculture,Active,28-02-2017,Medium,DEFAULT,2011-04-27,SCI,SG
+C100613,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,01-09-2006,Medium,DEFAULT,2011-02-02,SCI,SG
+C100614,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,S,Own account,Active,11-03-2010,Medium,DEFAULT,2011-07-11,SCI,SG
+C100615,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,N,Financial Institution,Active,05-05-2016,Medium,DEFAULT,2020-03-24,SCI,SG
+C100616,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,22-04-2019,Large,DEFAULT,2023-10-30,SCI,SG
+C100617,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,09-05-2005,Medium,DEFAULT,2010-02-24,SCI,SG
+C100618,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,15-11-2016,Medium,DEFAULT,2016-02-29,SCI,SG
+C100619,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,S,Own account,Active,29-03-2023,Large,DEFAULT,2019-08-29,SCI,SG
+C100620,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Active,01-03-2007,Small,DEFAULT,2021-10-05,SCI,SG
+C100621,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,MM,Middle market,Active,26-11-2018,Small,DEFAULT,2021-10-22,SCI,SG
+C100622,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,30-12-2010,Medium,DEFAULT,2018-11-26,SCI,SG
+C100623,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,09-02-2014,Large,DEFAULT,2020-04-18,SCI,SG
+C100624,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,NA,Not applicable,Dormant,25-01-2010,Medium,DEFAULT,2016-09-23,SCI,SG
+C100625,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,MM,Middle market,Active,30-07-2019,Medium,DEFAULT,2010-09-17,SCI,SG
+C100626,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,17-06-2013,Large,DEFAULT,2022-05-25,SCI,SG
+C100627,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,19-03-2005,Medium,DEFAULT,2013-11-04,SCI,SG
+C100628,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,25-09-2014,Medium,DEFAULT,2017-06-06,SCI,SG
+C100629,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,30,Business Clients,Active,15-12-2005,Medium,DEFAULT,2015-02-26,SCI,SG
+C100630,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,12-07-2020,Small,DEFAULT,2022-09-18,SCI,SG
+C100631,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,02-09-2006,Medium,DEFAULT,2016-04-15,SCI,SG
+C100632,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,21-01-2012,Large,DEFAULT,2010-05-09,SCI,SG
+C100633,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,15-11-2021,Medium,DEFAULT,2018-12-07,SCI,SG
+C100634,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,25-08-2017,Medium,DEFAULT,2015-05-24,SCI,SG
+C100635,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,15-02-2017,Small,DEFAULT,2017-06-10,SCI,SG
+C100636,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,MM,Middle market,Active,21-02-2008,Large,DEFAULT,2011-10-05,SCI,SG
+C100637,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,HV,High value small business,Active,21-10-2014,Large,DEFAULT,2015-03-17,SCI,SG
+C100638,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,01-04-2022,Small,DEFAULT,2023-10-08,SCI,SG
+C100639,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,27-04-2012,Medium,DEFAULT,2010-08-31,SCI,SG
+C100640,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,08-02-2015,Small,DEFAULT,2021-01-02,SCI,SG
+C100641,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,K,Global corporate,Active,03-06-2013,Large,DEFAULT,2019-09-08,SCI,SG
+C100642,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,27-10-2019,Medium,DEFAULT,2018-07-11,SCI,SG
+C100643,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,17-08-2011,Medium,DEFAULT,2015-07-12,SCI,SG
+C100644,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,17-06-2008,Large,DEFAULT,2018-07-10,SCI,SG
+C100645,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,08-02-2012,Large,DEFAULT,2018-02-02,SCI,SG
+C100646,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,01-12-2011,Medium,DEFAULT,2019-12-23,SCI,SG
+C100647,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,18-04-2007,Medium,DEFAULT,2012-12-21,SCI,SG
+C100648,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,50,Private Banking,Active,25-01-2015,Large,DEFAULT,2022-06-29,SCI,SG
+C100649,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,K,Global corporate,Active,05-01-2007,Small,DEFAULT,2017-12-09,SCI,SG
+C100650,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,06-08-2022,Small,DEFAULT,2017-04-11,SCI,SG
+C100651,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,13-04-2014,Medium,DEFAULT,2018-09-12,SCI,SG
+C100652,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,ME,Medium enterprises,Active,20-07-2017,Small,DEFAULT,2015-06-12,SCI,SG
+C100653,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,ME,Medium enterprises,Active,20-10-2008,Small,DEFAULT,2013-02-11,SCI,SG
+C100654,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,23-01-2016,Small,DEFAULT,2013-04-10,SCI,SG
+C100655,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,11-03-2011,Small,DEFAULT,2019-06-12,SCI,SG
+C100656,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,23-09-2006,Small,DEFAULT,2018-02-06,SCI,SG
+C100657,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,HV,High value small business,Active,03-03-2021,Medium,DEFAULT,2021-02-13,SCI,SG
+C100658,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,15-01-2008,Small,DEFAULT,2016-10-31,SCI,SG
+C100659,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,29-11-2018,Large,DEFAULT,2018-07-10,SCI,SG
+C100660,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,29-08-2014,Large,DEFAULT,2023-05-02,SCI,SG
+C100661,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,MM,Middle market,Active,13-07-2018,Medium,DEFAULT,2014-07-04,SCI,SG
+C100662,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,07-12-2013,Medium,DEFAULT,2017-02-27,SCI,SG
+C100663,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,13-03-2019,Small,DEFAULT,2021-01-05,SCI,SG
+C100664,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,16-04-2011,Medium,DEFAULT,2018-10-24,SCI,SG
+C100665,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,25-08-2017,Small,DEFAULT,2014-06-25,SCI,SG
+C100666,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,04-05-2017,Small,DEFAULT,2010-08-09,SCI,SG
+C100667,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,S,Own account,Active,14-09-2009,Medium,DEFAULT,2019-11-01,SCI,SG
+C100668,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,21-07-2006,Medium,DEFAULT,2019-03-06,SCI,SG
+C100669,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,17-10-2011,Large,DEFAULT,2015-06-06,SCI,SG
+C100670,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,16-01-2021,Medium,DEFAULT,2019-06-29,SCI,SG
+C100671,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,MM,Middle market,Active,31-05-2018,Small,DEFAULT,2020-09-30,SCI,SG
+C100672,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,07-07-2020,Medium,DEFAULT,2019-05-20,SCI,SG
+C100673,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,24-01-2013,Medium,DEFAULT,2022-01-16,SCI,SG
+C100674,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,S,Own account,Active,27-07-2010,Large,DEFAULT,2017-12-18,SCI,SG
+C100675,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Active,29-12-2005,Medium,DEFAULT,2022-08-19,SCI,SG
+C100676,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,E,Commodity Traders & Agriculture,Active,09-06-2012,Small,DEFAULT,2019-08-28,SCI,SG
+C100677,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,HV,High value small business,Active,21-10-2010,Small,DEFAULT,2014-12-24,SCI,SG
+C100678,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,N,Financial Institution,Active,10-10-2013,Medium,DEFAULT,2020-05-21,SCI,SG
+C100679,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,21-07-2005,Medium,DEFAULT,2020-10-29,SCI,SG
+C100680,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,N,Financial Institution,Active,05-12-2006,Medium,DEFAULT,2012-08-08,SCI,SG
+C100681,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,11-09-2012,Medium,DEFAULT,2020-03-19,SCI,SG
+C100682,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,24-10-2012,Large,DEFAULT,2020-09-05,SCI,SG
+C100683,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,ME,Medium enterprises,Active,17-08-2020,Small,DEFAULT,2020-02-24,SCI,SG
+C100684,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,50,Private Banking,Active,02-01-2006,Medium,DEFAULT,2012-07-31,SCI,SG
+C100685,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,S,Own account,Active,10-03-2020,Large,DEFAULT,2013-09-08,SCI,SG
+C100686,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,19-05-2017,Medium,DEFAULT,2013-08-04,SCI,SG
+C100687,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,14-05-2015,Small,DEFAULT,2015-03-15,SCI,SG
+C100688,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,E,Commodity Traders & Agriculture,Active,07-03-2009,Medium,DEFAULT,2019-09-11,SCI,SG
+C100689,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,10-10-2018,Medium,DEFAULT,2014-06-05,SCI,SG
+C100690,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,50,Private Banking,Active,21-09-2013,Medium,DEFAULT,2010-02-06,SCI,SG
+C100691,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,S,Own account,Active,16-11-2021,Medium,DEFAULT,2011-05-28,SCI,SG
+C100692,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,ME,Medium enterprises,Active,16-01-2017,Medium,DEFAULT,2014-03-12,SCI,SG
+C100693,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,07-04-2015,Large,DEFAULT,2012-07-22,SCI,SG
+C100694,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,S,Own account,Active,24-12-2015,Medium,DEFAULT,2021-11-02,SCI,SG
+C100695,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,17-09-2018,Large,DEFAULT,2018-10-21,SCI,SG
+C100696,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,50,Private Banking,Active,19-12-2023,Medium,DEFAULT,2020-04-08,SCI,SG
+C100697,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,01-11-2020,Small,DEFAULT,2016-09-02,SCI,SG
+C100698,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,E,Commodity Traders & Agriculture,Active,10-01-2012,Medium,DEFAULT,2012-08-23,SCI,SG
+C100699,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,K,Global corporate,Active,08-02-2009,Small,DEFAULT,2018-05-17,SCI,SG
+C100700,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,50,Private Banking,Active,20-05-2014,Large,DEFAULT,2023-05-18,SCI,SG
+C100701,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,28-06-2014,Small,DEFAULT,2014-03-02,SCI,SG
+C100702,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,21-07-2020,Medium,DEFAULT,2013-11-20,SCI,SG
+C100703,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Active,24-02-2008,Small,DEFAULT,2014-03-13,SCI,SG
+C100704,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,23-11-2018,Small,DEFAULT,2011-03-16,SCI,SG
+C100705,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,14-11-2015,Large,DEFAULT,2013-01-23,SCI,SG
+C100706,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,06-08-2017,Large,DEFAULT,2021-05-03,SCI,SG
+C100707,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,K,Global corporate,Active,12-01-2016,Small,DEFAULT,2019-04-28,SCI,SG
+C100708,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,09-11-2006,Large,DEFAULT,2022-09-06,SCI,SG
+C100709,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,HV,High value small business,Active,25-09-2005,Small,DEFAULT,2016-03-01,SCI,SG
+C100710,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,09-10-2008,Medium,DEFAULT,2020-04-04,SCI,SG
+C100711,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,17-07-2007,Large,DEFAULT,2022-11-05,SCI,SG
+C100712,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,08-03-2017,Small,DEFAULT,2018-03-25,SCI,SG
+C100713,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,25-11-2014,Small,DEFAULT,2022-04-03,SCI,SG
+C100714,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Dormant,19-04-2007,Small,DEFAULT,2015-07-21,SCI,SG
+C100715,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,HV,High value small business,Active,22-09-2005,Medium,DEFAULT,2020-02-02,SCI,SG
+C100716,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,HV,High value small business,Active,27-04-2023,Medium,DEFAULT,2011-12-14,SCI,SG
+C100717,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,20-08-2007,Large,DEFAULT,2015-04-26,SCI,SG
+C100718,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,10-03-2018,Small,DEFAULT,2017-11-12,SCI,SG
+C100719,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,15-02-2008,Medium,DEFAULT,2014-08-20,SCI,SG
+C100720,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,S,Own account,Active,15-10-2017,Large,DEFAULT,2017-11-13,SCI,SG
+C100721,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,11-10-2008,Medium,DEFAULT,2017-04-05,SCI,SG
+C100722,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,31-12-2010,Large,DEFAULT,2021-07-16,SCI,SG
+C100723,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,ME,Medium enterprises,Active,28-10-2021,Small,DEFAULT,2019-03-26,SCI,SG
+C100724,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,S,Own account,Dormant,18-09-2019,Medium,DEFAULT,2012-11-05,SCI,SG
+C100725,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,HV,High value small business,Active,15-12-2020,Medium,DEFAULT,2017-03-23,SCI,SG
+C100726,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,02-03-2020,Medium,DEFAULT,2018-10-23,SCI,SG
+C100727,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,09-03-2019,Small,DEFAULT,2016-01-11,SCI,SG
+C100728,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,ME,Medium enterprises,Active,11-09-2006,Medium,DEFAULT,2012-02-02,SCI,SG
+C100729,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,30-03-2011,Medium,DEFAULT,2018-04-12,SCI,SG
+C100730,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,05-05-2012,Medium,DEFAULT,2023-01-20,SCI,SG
+C100731,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,03-02-2007,Medium,DEFAULT,2020-04-13,SCI,SG
+C100732,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,S,Own account,Active,06-11-2022,Large,DEFAULT,2021-12-27,SCI,SG
+C100733,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,S,Own account,Active,21-08-2014,Medium,DEFAULT,2014-10-02,SCI,SG
+C100734,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,31-07-2023,Small,DEFAULT,2016-05-12,SCI,SG
+C100735,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,06-12-2007,Small,DEFAULT,2022-09-12,SCI,SG
+C100736,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,23-04-2020,Medium,DEFAULT,2011-02-01,SCI,SG
+C100737,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,01-08-2022,Medium,DEFAULT,2020-04-22,SCI,SG
+C100738,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,MM,Middle market,Active,25-11-2014,Small,DEFAULT,2020-03-28,SCI,SG
+C100739,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,MM,Middle market,Active,11-06-2020,Medium,DEFAULT,2012-12-16,SCI,SG
+C100740,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,23-02-2011,Large,DEFAULT,2012-02-04,SCI,SG
+C100741,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,05-05-2013,Large,DEFAULT,2013-09-17,SCI,SG
+C100742,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,08-11-2011,Medium,DEFAULT,2015-04-03,SCI,SG
+C100743,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,13-10-2020,Medium,DEFAULT,2012-02-19,SCI,SG
+C100744,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,A,Local Corporate,Active,26-04-2018,Medium,DEFAULT,2015-01-27,SCI,SG
+C100745,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,A,Local Corporate,Active,08-08-2020,Medium,DEFAULT,2017-09-15,SCI,SG
+C100746,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Dormant,22-06-2014,Large,DEFAULT,2012-12-18,SCI,SG
+C100747,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,K,Global corporate,Active,05-08-2013,Medium,DEFAULT,2012-01-02,SCI,SG
+C100748,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,31-03-2013,Medium,DEFAULT,2016-09-17,SCI,SG
+C100749,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,31-03-2023,Small,DEFAULT,2012-12-26,SCI,SG
+C100750,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,20-08-2017,Medium,DEFAULT,2010-03-11,SCI,SG
+C100751,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,16-03-2021,Medium,DEFAULT,2014-10-12,SCI,SG
+C100752,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,26-10-2018,Medium,DEFAULT,2019-12-04,SCI,SG
+C100753,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,04-04-2007,Medium,DEFAULT,2013-02-20,SCI,SG
+C100754,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,12-08-2013,Small,DEFAULT,2017-11-19,SCI,SG
+C100755,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,20-02-2008,Small,DEFAULT,2015-07-23,SCI,SG
+C100756,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,S,Own account,Active,26-07-2010,Large,DEFAULT,2022-05-31,SCI,SG
+C100757,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,27-06-2020,Large,DEFAULT,2010-08-08,SCI,SG
+C100758,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,12-08-2018,Small,DEFAULT,2021-06-06,SCI,SG
+C100759,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,19-08-2011,Small,DEFAULT,2011-03-24,SCI,SG
+C100760,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,30,Business Clients,Active,13-07-2007,Small,DEFAULT,2015-05-29,SCI,SG
+C100761,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,05-08-2006,Large,DEFAULT,2021-11-06,SCI,SG
+C100762,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,HV,High value small business,Active,18-12-2007,Medium,DEFAULT,2018-09-04,SCI,SG
+C100763,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,26-04-2020,Medium,DEFAULT,2013-11-16,SCI,SG
+C100764,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,MM,Middle market,Active,12-04-2022,Medium,DEFAULT,2011-08-21,SCI,SG
+C100765,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,A,Local Corporate,Active,03-11-2009,Medium,DEFAULT,2010-11-23,SCI,SG
+C100766,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,ME,Medium enterprises,Active,05-12-2013,Medium,DEFAULT,2021-05-13,SCI,SG
+C100767,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,E,Commodity Traders & Agriculture,Active,28-03-2016,Large,DEFAULT,2019-04-27,SCI,SG
+C100768,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,50,Private Banking,Active,07-11-2006,Medium,DEFAULT,2022-01-13,SCI,SG
+C100769,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,50,Private Banking,Active,14-12-2011,Medium,DEFAULT,2011-10-10,SCI,SG
+C100770,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,26-06-2008,Large,DEFAULT,2022-01-12,SCI,SG
+C100771,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,25-03-2019,Medium,DEFAULT,2011-06-26,SCI,SG
+C100772,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,S,Own account,Active,16-05-2021,Medium,DEFAULT,2015-05-09,SCI,SG
+C100773,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,MM,Middle market,Active,30-09-2014,Medium,DEFAULT,2012-08-08,SCI,SG
+C100774,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,30,Business Clients,Active,27-03-2006,Medium,DEFAULT,2016-12-08,SCI,SG
+C100775,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,S,Own account,Active,17-11-2020,Medium,DEFAULT,2013-01-29,SCI,SG
+C100776,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,MM,Middle market,Active,24-09-2016,Small,DEFAULT,2021-08-08,SCI,SG
+C100777,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,06-11-2007,Medium,DEFAULT,2016-01-11,SCI,SG
+C100778,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,29-08-2005,Medium,DEFAULT,2017-07-07,SCI,SG
+C100779,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,08-06-2006,Small,DEFAULT,2015-11-25,SCI,SG
+C100780,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,16-06-2016,Medium,DEFAULT,2018-01-29,SCI,SG
+C100781,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,MM,Middle market,Active,18-09-2017,Medium,DEFAULT,2013-09-29,SCI,SG
+C100782,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,07-05-2022,Medium,DEFAULT,2012-04-22,SCI,SG
+C100783,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,ME,Medium enterprises,Active,31-05-2016,Large,DEFAULT,2010-01-22,SCI,SG
+C100784,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,11-04-2005,Medium,DEFAULT,2015-06-27,SCI,SG
+C100785,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,04-08-2013,Large,DEFAULT,2013-05-14,SCI,SG
+C100786,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,ME,Medium enterprises,Active,17-10-2005,Small,DEFAULT,2022-05-27,SCI,SG
+C100787,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,27-07-2010,Large,DEFAULT,2019-05-03,SCI,SG
+C100788,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,01-10-2006,Medium,DEFAULT,2022-10-27,SCI,SG
+C100789,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,07-02-2020,Medium,DEFAULT,2011-03-08,SCI,SG
+C100790,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,27-07-2016,Medium,DEFAULT,2011-01-12,SCI,SG
+C100791,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,08-06-2015,Medium,DEFAULT,2016-05-01,SCI,SG
+C100792,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,S,Own account,Active,28-05-2017,Large,DEFAULT,2020-03-30,SCI,SG
+C100793,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,ME,Medium enterprises,Active,06-08-2022,Medium,DEFAULT,2016-10-25,SCI,SG
+C100794,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,E,Commodity Traders & Agriculture,Active,10-04-2018,Small,DEFAULT,2021-01-24,SCI,SG
+C100795,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,ME,Medium enterprises,Active,05-04-2017,Small,DEFAULT,2015-07-02,SCI,SG
+C100796,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,14-03-2014,Large,DEFAULT,2010-07-15,SCI,SG
+C100797,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,07-04-2019,Medium,DEFAULT,2010-03-20,SCI,SG
+C100798,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,29-09-2019,Large,DEFAULT,2018-06-10,SCI,SG
+C100799,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,19-11-2016,Small,DEFAULT,2015-05-06,SCI,SG
+C100800,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,50,Private Banking,Active,06-05-2006,Medium,DEFAULT,2013-03-12,SCI,SG
+C100801,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,12-03-2010,Medium,DEFAULT,2021-08-28,SCI,SG
+C100802,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,10-05-2013,Medium,DEFAULT,2020-04-13,SCI,SG
+C100803,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,03-05-2016,Small,DEFAULT,2012-12-29,SCI,SG
+C100804,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,26-09-2017,Medium,DEFAULT,2011-05-26,SCI,SG
+C100805,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,07-12-2007,Medium,DEFAULT,2015-04-24,SCI,SG
+C100806,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,25-01-2012,Medium,DEFAULT,2018-10-25,SCI,SG
+C100807,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,06-02-2011,Medium,DEFAULT,2015-03-29,SCI,SG
+C100808,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,S,Own account,Active,21-01-2008,Medium,DEFAULT,2023-02-11,SCI,SG
+C100809,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,08-09-2008,Small,DEFAULT,2020-01-31,SCI,SG
+C100810,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,HV,High value small business,Active,17-09-2007,Large,DEFAULT,2022-01-08,SCI,SG
+C100811,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,28-08-2009,Small,DEFAULT,2020-02-20,SCI,SG
+C100812,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,10-09-2007,Medium,DEFAULT,2012-01-11,SCI,SG
+C100813,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,A,Local Corporate,Active,29-10-2011,Medium,DEFAULT,2023-07-14,SCI,SG
+C100814,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,09-05-2012,Medium,DEFAULT,2013-04-30,SCI,SG
+C100815,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,ME,Medium enterprises,Active,24-12-2012,Medium,DEFAULT,2018-11-21,SCI,SG
+C100816,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,ME,Medium enterprises,Active,02-11-2010,Small,DEFAULT,2013-11-25,SCI,SG
+C100817,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,NA,Not applicable,Active,21-06-2017,Medium,DEFAULT,2022-05-04,SCI,SG
+C100818,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,15-04-2007,Large,DEFAULT,2013-02-19,SCI,SG
+C100819,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,17-08-2023,Small,DEFAULT,2014-12-26,SCI,SG
+C100820,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,26-12-2013,Small,DEFAULT,2018-05-08,SCI,SG
+C100821,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,22-10-2010,Medium,DEFAULT,2011-09-07,SCI,SG
+C100822,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,30,Business Clients,Active,28-06-2019,Small,DEFAULT,2019-12-12,SCI,SG
+C100823,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,09-08-2023,Small,DEFAULT,2017-06-09,SCI,SG
+C100824,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,MM,Middle market,Active,05-05-2015,Small,DEFAULT,2011-02-19,SCI,SG
+C100825,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,19-09-2014,Medium,DEFAULT,2018-11-10,SCI,SG
+C100826,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,28-04-2020,Medium,DEFAULT,2019-07-28,SCI,SG
+C100827,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,14-03-2009,Small,DEFAULT,2016-03-02,SCI,SG
+C100828,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,02-05-2008,Medium,DEFAULT,2010-10-11,SCI,SG
+C100829,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,10-03-2016,Medium,DEFAULT,2019-03-30,SCI,SG
+C100830,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,K,Global corporate,Active,11-04-2011,Medium,DEFAULT,2018-08-04,SCI,SG
+C100831,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,N,Financial Institution,Active,01-06-2019,Medium,DEFAULT,2021-10-17,SCI,SG
+C100832,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,S,Own account,Active,29-12-2022,Small,DEFAULT,2022-03-12,SCI,SG
+C100833,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,A,Local Corporate,Active,20-01-2013,Small,DEFAULT,2020-10-04,SCI,SG
+C100834,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,08-09-2017,Small,DEFAULT,2021-04-08,SCI,SG
+C100835,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,A,Local Corporate,Active,13-01-2009,Small,DEFAULT,2010-08-02,SCI,SG
+C100836,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,MM,Middle market,Active,29-08-2005,Small,DEFAULT,2016-04-20,SCI,SG
+C100837,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,MM,Middle market,Active,01-08-2015,Medium,DEFAULT,2021-11-16,SCI,SG
+C100838,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,30,Business Clients,Active,22-03-2010,Medium,DEFAULT,2013-07-31,SCI,SG
+C100839,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,50,Private Banking,Active,30-05-2010,Medium,DEFAULT,2015-12-24,SCI,SG
+C100840,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,03-12-2009,Small,DEFAULT,2022-11-30,SCI,SG
+C100841,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,K,Global corporate,Active,28-10-2023,Small,DEFAULT,2013-11-24,SCI,SG
+C100842,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,19-02-2012,Small,DEFAULT,2018-01-18,SCI,SG
+C100843,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,NA,Not applicable,Active,25-09-2017,Medium,DEFAULT,2022-08-23,SCI,SG
+C100844,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,23-03-2009,Small,DEFAULT,2021-01-15,SCI,SG
+C100845,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,07-11-2005,Medium,DEFAULT,2012-01-10,SCI,SG
+C100846,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,28-11-2009,Large,DEFAULT,2010-06-13,SCI,SG
+C100847,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,10-10-2018,Large,DEFAULT,2014-07-09,SCI,SG
+C100848,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,24-12-2008,Large,DEFAULT,2017-04-04,SCI,SG
+C100849,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,S,Own account,Active,27-02-2018,Medium,DEFAULT,2013-03-06,SCI,SG
+C100850,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,09-03-2013,Medium,DEFAULT,2011-08-18,SCI,SG
+C100851,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,A,Local Corporate,Active,08-11-2019,Medium,DEFAULT,2018-11-15,SCI,SG
+C100852,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,E,Commodity Traders & Agriculture,Active,27-03-2012,Large,DEFAULT,2013-01-22,SCI,SG
+C100853,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,19-10-2014,Medium,DEFAULT,2020-12-05,SCI,SG
+C100854,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,09-08-2017,Medium,DEFAULT,2023-10-07,SCI,SG
+C100855,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,50,Private Banking,Active,18-03-2018,Large,DEFAULT,2013-12-07,SCI,SG
+C100856,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,MM,Middle market,Active,11-06-2020,Medium,DEFAULT,2016-08-09,SCI,SG
+C100857,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,15-01-2005,Small,DEFAULT,2022-11-06,SCI,SG
+C100858,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,16-04-2022,Medium,DEFAULT,2022-09-23,SCI,SG
+C100859,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,S,Own account,Active,20-02-2012,Medium,DEFAULT,2023-09-18,SCI,SG
+C100860,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,30,Business Clients,Active,03-05-2007,Large,DEFAULT,2021-02-16,SCI,SG
+C100861,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,A,Local Corporate,Active,30-09-2006,Large,DEFAULT,2015-05-04,SCI,SG
+C100862,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,ME,Medium enterprises,Dormant,07-10-2008,Large,DEFAULT,2011-12-28,SCI,SG
+C100863,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,13-12-2010,Small,DEFAULT,2014-09-14,SCI,SG
+C100864,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,MM,Middle market,Active,11-11-2012,Medium,DEFAULT,2015-10-04,SCI,SG
+C100865,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,30-01-2006,Medium,DEFAULT,2018-08-28,SCI,SG
+C100866,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,K,Global corporate,Active,24-09-2008,Medium,DEFAULT,2019-04-15,SCI,SG
+C100867,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,17-11-2012,Small,DEFAULT,2022-04-01,SCI,SG
+C100868,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,E,Commodity Traders & Agriculture,Active,03-10-2015,Large,DEFAULT,2022-12-19,SCI,SG
+C100869,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,27-08-2006,Medium,DEFAULT,2010-10-01,SCI,SG
+C100870,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,10-11-2010,Small,DEFAULT,2012-05-07,SCI,SG
+C100871,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,ME,Medium enterprises,Active,03-06-2013,Large,DEFAULT,2013-08-11,SCI,SG
+C100872,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,E,Commodity Traders & Agriculture,Active,02-02-2007,Medium,DEFAULT,2017-07-31,SCI,SG
+C100873,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,30,Business Clients,Active,04-09-2014,Medium,DEFAULT,2013-09-13,SCI,SG
+C100874,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,ME,Medium enterprises,Active,10-04-2007,Large,DEFAULT,2017-06-05,SCI,SG
+C100875,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,07-03-2014,Medium,DEFAULT,2022-06-06,SCI,SG
+C100876,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,03-09-2011,Medium,DEFAULT,2015-04-30,SCI,SG
+C100877,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,28-10-2017,Small,DEFAULT,2022-04-30,SCI,SG
+C100878,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,03-02-2013,Medium,DEFAULT,2010-02-01,SCI,SG
+C100879,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,25-06-2023,Medium,DEFAULT,2023-06-18,SCI,SG
+C100880,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,HV,High value small business,Active,30-07-2005,Small,DEFAULT,2014-08-23,SCI,SG
+C100881,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,03-11-2006,Medium,DEFAULT,2020-08-15,SCI,SG
+C100882,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,50,Private Banking,Active,01-12-2013,Medium,DEFAULT,2020-07-24,SCI,SG
+C100883,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,11-12-2010,Medium,DEFAULT,2012-01-17,SCI,SG
+C100884,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,22-07-2013,Medium,DEFAULT,2018-04-15,SCI,SG
+C100885,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,HV,High value small business,Active,27-11-2010,Small,DEFAULT,2019-11-12,SCI,SG
+C100886,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,N,Financial Institution,Active,11-10-2023,Small,DEFAULT,2016-01-10,SCI,SG
+C100887,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,MM,Middle market,Active,15-08-2020,Medium,DEFAULT,2012-03-03,SCI,SG
+C100888,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,ME,Medium enterprises,Active,16-02-2023,Medium,DEFAULT,2022-02-22,SCI,SG
+C100889,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,A,Local Corporate,Active,25-03-2018,Small,DEFAULT,2015-02-07,SCI,SG
+C100890,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,11-05-2023,Small,DEFAULT,2021-09-20,SCI,SG
+C100891,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,HV,High value small business,Active,30-05-2020,Medium,DEFAULT,2020-08-25,SCI,SG
+C100892,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,ME,Medium enterprises,Active,09-10-2006,Small,DEFAULT,2018-11-09,SCI,SG
+C100893,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,04-08-2016,Medium,DEFAULT,2022-10-26,SCI,SG
+C100894,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,25-12-2021,Medium,DEFAULT,2020-01-27,SCI,SG
+C100895,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,50,Private Banking,Active,01-10-2008,Small,DEFAULT,2014-10-02,SCI,SG
+C100896,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,01-07-2014,Medium,DEFAULT,2011-10-04,SCI,SG
+C100897,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,30,Business Clients,Active,14-06-2023,Large,DEFAULT,2013-04-26,SCI,SG
+C100898,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,23-04-2021,Large,DEFAULT,2011-07-03,SCI,SG
+C100899,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,30,Business Clients,Active,30-11-2013,Large,DEFAULT,2022-05-20,SCI,SG
+C100900,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,S,Own account,Active,28-08-2016,Small,DEFAULT,2020-04-11,SCI,SG
+C100901,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,A,Local Corporate,Active,20-09-2016,Medium,DEFAULT,2019-05-31,SCI,SG
+C100902,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,A,Local Corporate,Active,29-04-2008,Small,DEFAULT,2022-09-16,SCI,SG
+C100903,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,ME,Medium enterprises,Active,15-08-2017,Large,DEFAULT,2012-04-07,SCI,SG
+C100904,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,50,Private Banking,Active,17-09-2012,Large,DEFAULT,2019-03-21,SCI,SG
+C100905,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,22-11-2015,Small,DEFAULT,2022-10-31,SCI,SG
+C100906,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,07-03-2011,Large,DEFAULT,2019-01-15,SCI,SG
+C100907,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,30,Business Clients,Active,09-04-2020,Small,DEFAULT,2019-01-04,SCI,SG
+C100908,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,08-06-2012,Small,DEFAULT,2015-05-01,SCI,SG
+C100909,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,K,Global corporate,Active,10-01-2011,Medium,DEFAULT,2018-05-10,SCI,SG
+C100910,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,A,Local Corporate,Active,23-12-2011,Large,DEFAULT,2016-04-15,SCI,SG
+C100911,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,K,Global corporate,Active,12-05-2020,Small,DEFAULT,2012-03-15,SCI,SG
+C100912,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,K,Global corporate,Active,06-09-2021,Medium,DEFAULT,2019-12-09,SCI,SG
+C100913,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Active,08-05-2014,Small,DEFAULT,2023-07-27,SCI,SG
+C100914,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,MM,Middle market,Active,28-09-2009,Medium,DEFAULT,2019-02-18,SCI,SG
+C100915,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,S,Own account,Active,22-05-2013,Medium,DEFAULT,2011-04-06,SCI,SG
+C100916,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,K,Global corporate,Active,30-11-2020,Small,DEFAULT,2021-05-14,SCI,SG
+C100917,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,MM,Middle market,Active,04-10-2016,Medium,DEFAULT,2022-10-03,SCI,SG
+C100918,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,30,Business Clients,Active,03-07-2009,Medium,DEFAULT,2011-04-18,SCI,SG
+C100919,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,NA,Not applicable,Active,19-02-2006,Medium,DEFAULT,2018-01-31,SCI,SG
+C100920,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,22-06-2023,Medium,DEFAULT,2020-05-30,SCI,SG
+C100921,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,E,Commodity Traders & Agriculture,Active,12-10-2007,Medium,DEFAULT,2010-09-08,SCI,SG
+C100922,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,S,Own account,Active,29-04-2018,Medium,DEFAULT,2020-01-03,SCI,SG
+C100923,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,24-08-2015,Large,DEFAULT,2023-03-01,SCI,SG
+C100924,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,MM,Middle market,Active,16-10-2023,Medium,DEFAULT,2015-10-20,SCI,SG
+C100925,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,02-09-2013,Small,DEFAULT,2011-02-11,SCI,SG
+C100926,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Active,29-06-2022,Small,DEFAULT,2014-10-22,SCI,SG
+C100927,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,N,Financial Institution,Active,14-03-2020,Medium,DEFAULT,2014-08-21,SCI,SG
+C100928,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,06-07-2016,Medium,DEFAULT,2010-06-14,SCI,SG
+C100929,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,MM,Middle market,Active,19-11-2008,Small,DEFAULT,2023-06-26,SCI,SG
+C100930,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,MM,Middle market,Active,08-11-2011,Medium,DEFAULT,2016-03-05,SCI,SG
+C100931,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,50,Private Banking,Active,27-10-2012,Medium,DEFAULT,2020-04-18,SCI,SG
+C100932,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,S,Own account,Active,12-10-2011,Small,DEFAULT,2021-09-05,SCI,SG
+C100933,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,30,Business Clients,Active,02-03-2005,Large,DEFAULT,2021-06-22,SCI,SG
+C100934,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,30,Business Clients,Active,27-04-2018,Small,DEFAULT,2023-08-30,SCI,SG
+C100935,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,MM,Middle market,Active,05-06-2007,Medium,DEFAULT,2020-10-21,SCI,SG
+C100936,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,15-03-2011,Small,DEFAULT,2017-04-17,SCI,SG
+C100937,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,ME,Medium enterprises,Active,13-12-2020,Medium,DEFAULT,2016-09-13,SCI,SG
+C100938,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,03-03-2022,Medium,DEFAULT,2015-05-23,SCI,SG
+C100939,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,A,Local Corporate,Active,30-12-2022,Medium,DEFAULT,2023-06-17,SCI,SG
+C100940,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,ME,Medium enterprises,Active,08-04-2020,Small,DEFAULT,2013-02-20,SCI,SG
+C100941,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,K,Global corporate,Dormant,27-10-2010,Small,DEFAULT,2019-05-22,SCI,SG
+C100942,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,50,Private Banking,Active,17-10-2005,Medium,DEFAULT,2023-01-29,SCI,SG
+C100943,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,30,Business Clients,Active,31-12-2020,Medium,DEFAULT,2014-12-27,SCI,SG
+C100944,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,ME,Medium enterprises,Active,26-01-2020,Small,DEFAULT,2018-01-15,SCI,SG
+C100945,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,30,Business Clients,Active,09-11-2023,Medium,DEFAULT,2022-07-10,SCI,SG
+C100946,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,MM,Middle market,Active,24-07-2015,Medium,DEFAULT,2012-11-14,SCI,SG
+C100947,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,K,Global corporate,Active,16-07-2017,Small,DEFAULT,2014-02-08,SCI,SG
+C100948,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,26-12-2009,Large,DEFAULT,2017-12-20,SCI,SG
+C100949,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,A,Local Corporate,Active,21-11-2011,Small,DEFAULT,2019-06-07,SCI,SG
+C100950,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,18-02-2018,Large,DEFAULT,2016-08-05,SCI,SG
+C100951,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,ME,Medium enterprises,Active,22-07-2015,Large,DEFAULT,2011-03-16,SCI,SG
+C100952,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,ME,Medium enterprises,Active,13-05-2009,Medium,DEFAULT,2021-03-23,SCI,SG
+C100953,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,24-07-2013,Medium,DEFAULT,2021-11-19,SCI,SG
+C100954,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,20-05-2008,Large,DEFAULT,2013-01-30,SCI,SG
+C100955,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,09-10-2017,Small,DEFAULT,2020-04-06,SCI,SG
+C100956,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,S,Own account,Active,19-01-2021,Medium,DEFAULT,2014-01-17,SCI,SG
+C100957,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,E,Commodity Traders & Agriculture,Active,26-02-2019,Small,DEFAULT,2013-12-19,SCI,SG
+C100958,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,MM,Middle market,Active,08-02-2005,Medium,DEFAULT,2020-02-21,SCI,SG
+C100959,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,A,Local Corporate,Active,08-05-2022,Medium,DEFAULT,2013-10-13,SCI,SG
+C100960,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,ME,Medium enterprises,Active,16-02-2022,Large,DEFAULT,2011-12-23,SCI,SG
+C100961,LE001,SP001,Lotus Capital Pte Ltd,Lotus Capital Pte Ltd,K,Global corporate,Active,18-03-2019,Medium,DEFAULT,2019-08-19,SCI,SG
+C100962,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,MM,Middle market,Active,16-09-2015,Large,DEFAULT,2018-08-07,SCI,SG
+C100963,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,K,Global corporate,Active,15-05-2013,Medium,DEFAULT,2010-04-26,SCI,SG
+C100964,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,K,Global corporate,Active,29-11-2016,Large,DEFAULT,2014-04-11,SCI,SG
+C100965,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,K,Global corporate,Active,01-08-2010,Medium,DEFAULT,2015-01-28,SCI,SG
+C100966,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,K,Global corporate,Active,22-04-2007,Medium,DEFAULT,2018-08-09,SCI,SG
+C100967,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,ME,Medium enterprises,Active,24-06-2023,Small,DEFAULT,2011-01-10,SCI,SG
+C100968,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,A,Local Corporate,Active,24-03-2015,Small,DEFAULT,2021-09-02,SCI,SG
+C100969,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,HV,High value small business,Active,28-05-2020,Large,DEFAULT,2013-01-01,SCI,SG
+C100970,LE001,SP001,Maple Investments Pte Ltd,Maple Investments Pte Ltd,30,Business Clients,Dormant,30-12-2015,Medium,DEFAULT,2018-01-21,SCI,SG
+C100971,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,MM,Middle market,Active,19-03-2023,Small,DEFAULT,2019-01-18,SCI,SG
+C100972,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,MM,Middle market,Active,11-12-2007,Medium,DEFAULT,2014-09-27,SCI,SG
+C100973,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,E,Commodity Traders & Agriculture,Active,23-03-2013,Large,DEFAULT,2010-11-03,SCI,SG
+C100974,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,A,Local Corporate,Active,27-09-2010,Medium,DEFAULT,2021-12-29,SCI,SG
+C100975,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,28-01-2006,Medium,DEFAULT,2012-06-04,SCI,SG
+C100976,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE Pte Ltd,K,Global corporate,Active,19-12-2014,Small,DEFAULT,2018-07-13,SCI,SG
+C100977,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,S,Own account,Active,23-08-2015,Small,DEFAULT,2013-06-08,SCI,SG
+C100978,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,K,Global corporate,Active,20-02-2019,Medium,DEFAULT,2010-03-18,SCI,SG
+C100979,LE001,SP001,Merlion Holdings Pte Ltd,Merlion Holdings Pte Ltd,K,Global corporate,Active,08-04-2007,Small,DEFAULT,2021-09-02,SCI,SG
+C100980,LE001,SP001,Zenith Manufacturing Pte Ltd,Zenith Manufacturing Pte Ltd,30,Business Clients,Active,19-09-2020,Medium,DEFAULT,2013-01-28,SCI,SG
+C100981,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,MM,Middle market,Active,10-05-2007,Medium,DEFAULT,2021-06-22,SCI,SG
+C100982,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,K,Global corporate,Active,08-08-2022,Medium,DEFAULT,2012-05-20,SCI,SG
+C100983,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,50,Private Banking,Active,25-06-2009,Medium,DEFAULT,2015-11-25,SCI,SG
+C100984,LE001,SP001,Harbour Shipping Pte Ltd,Harbour Shipping Pte Ltd,A,Local Corporate,Active,11-03-2014,Large,DEFAULT,2016-08-16,SCI,SG
+C100985,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,19-02-2016,Small,DEFAULT,2014-08-29,SCI,SG
+C100986,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,23-01-2005,Medium,DEFAULT,2010-04-15,SCI,SG
+C100987,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,A,Local Corporate,Active,26-09-2023,Small,DEFAULT,2022-11-17,SCI,SG
+C100988,LE001,SP001,Vertex Finance Pte Ltd,Vertex Finance Pte Ltd,A,Local Corporate,Active,08-01-2007,Medium,DEFAULT,2021-06-23,SCI,SG
+C100989,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,MM,Middle market,Active,10-04-2007,Small,DEFAULT,2015-09-28,SCI,SG
+C100990,LE001,SP001,Evergreen Commodities Pte Ltd,Evergreen Commodities Pte Ltd,50,Private Banking,Active,23-08-2011,Small,DEFAULT,2015-12-04,SCI,SG
+C100991,LE001,SP001,Pioneer Energy Pte Ltd,Pioneer Energy Pte Ltd,HV,High value small business,Active,29-03-2023,Medium,DEFAULT,2013-12-02,SCI,SG
+C100992,LE001,SP001,ABC Trading Pte Ltd,ABC Trading Pte Ltd,30,Business Clients,Active,29-01-2013,Large,DEFAULT,2017-01-05,SCI,SG
+C100993,LE001,SP001,Nova Retail Pte Ltd,Nova Retail Pte Ltd,ME,Medium enterprises,Active,18-02-2007,Medium,DEFAULT,2011-01-11,SCI,SG
+C100994,LE001,SP001,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,SIMANGGANG SAWMILL COMPANY LTD SINGAPORE,E,Commodity Traders & Agriculture,Active,28-10-2008,Small,DEFAULT,2017-05-16,SCI,SG
+C100995,LE001,SP001,Cedar Technologies Pte Ltd,Cedar Technologies Pte Ltd,ME,Medium enterprises,Active,12-12-2018,Large,DEFAULT,2016-01-07,SCI,SG
+C100996,LE001,SP001,Sunrise Logistics Pte Ltd,Sunrise Logistics Pte Ltd,K,Global corporate,Active,08-09-2012,Large,DEFAULT,2014-02-07,SCI,SG
+C100997,LE001,SP001,Pacific Exports Pte Ltd,Pacific Exports Pte Ltd,ME,Medium enterprises,Active,29-03-2015,Medium,DEFAULT,2016-02-05,SCI,SG
+C100998,LE001,SP001,Apex Solutions Pte Ltd,Apex Solutions Pte Ltd,S,Own account,Active,23-09-2015,Large,DEFAULT,2019-06-17,SCI,SG
+C100999,LE001,SP001,Orchid Foods Pte Ltd,Orchid Foods Pte Ltd,30,Business Clients,Active,13-08-2020,Medium,DEFAULT,2011-04-26,SCI,SG
